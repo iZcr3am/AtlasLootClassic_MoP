@@ -1723,15 +1723,26 @@ data["ScarletMonasteryMoP"] = {
                 -- Head
                 -- Neck
                 -- Shoulder
+                { 1, 104966 }, -- Rime-Rift Shoulders
+                { 2, 104957 }, -- Quarantine Shoulderguards
                 -- Cloak
                 -- Chest
                 -- Wrist
+                { 4, 105128 }, -- Bracers of Sonic Projection
                 -- Hands
                 -- Waist
+                { 6, 105101 }, -- Plate Belt of the War-Healer
+                { 7, 105137 }, -- Cord of Black Dreams
                 -- Legs
+                { 9, 104912 }, -- Puddle Punishers
                 -- Feet
+                { 11, 104930 }, -- Waterwalker Greatboots
+                { 12, 105065 }, -- Malkorok's Giant Stompers
                 -- Finger
+                { 14, 105038 }, -- Ring of the Iron Tomb
                 -- Trinket
+                { 16, 105074 }, -- Frenzied Crystal of Rage
+                { 17, 105029 }, -- Haromm's Talisman
                 -- Weapons
                 -- 1H Axe
                 -- 1H Mace
