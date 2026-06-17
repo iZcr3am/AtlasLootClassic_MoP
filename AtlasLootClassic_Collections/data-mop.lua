@@ -415,15 +415,16 @@ data["AugustStoneClusterVendorMoP"] = {
             { 30, 105137 }, -- Cord of Black Dreams
             { 31, 105153 }, -- Seal of Karmic Return
             -- Legs
-            { 101, 104926 }, -- Salt Water Sandals
-            { 102, 105031 }, -- Riou's Vigilant Leggings
-            { 103, 105098 }, -- Shado-Pan Reliquary Kit
+            { 101, 105031 }, -- Riou's Vigilant Leggings
+            { 102, 105098 }, -- Shado-Pan Reliquary Kit
             -- Feet
             { 116, 104933 }, -- Stonetoe's Tormented Treads
             { 117, 104969 }, -- Boots of Broken Reliance
             { 118, 104986 }, -- Unrepentant Heels
             { 119, 105078 }, -- Boots of Perilous Infusion
             { 120, 105084 }, -- Pandaren Roofsprinters
+            { 121, 104926 }, -- Salt Water Sandals
+
         },
     },
     {
@@ -549,17 +550,19 @@ data["AugustStoneClusterVendorMoP"] = {
             { 5, 105843 }, -- Drape of the Omega
             { 6, 105852 }, -- Aeth's Swiftcinder Cloak
             { 7, 105853 }, -- Turtleshell Greatcloak
+            { 8, 105028 }, -- Poisonmist Nightcloak
+            { 9, 105075 }, -- Black-Blooded Drape
         },
     },
     {
         name = ALIL["Weapon"],
         [CELESTIAL_DIFF] = {
             -- 1H Axe
-            { 1, 104919 }, -- Encapsulated Essence of Immerseus
-            { 2, 105037 }, -- Haromm's Frozen Crescent
-            { 3, 105069 }, -- Malkorok's Skullcleaver
-            { 4, 105127 }, -- Korven's Crimson Crescent
+            { 1, 105037 }, -- Haromm's Frozen Crescent
+            { 2, 105069 }, -- Malkorok's Skullcleaver
+            { 3, 105127 }, -- Korven's Crimson Crescent
             -- 1H Mace
+            { 5, 104919 }, -- Encapsulated Essence of Immerseus      
             { 6, 105006 }, -- Seismic Bore
             { 7, 105043 }, -- Kardris' Scepter
             { 8, 105123 }, -- Siegecrafter's Forge Hammer
@@ -659,7 +662,7 @@ data["AugustStoneClusterVendorMoP"] = {
             { 16, 104945 }, -- Petrified Pennyroyal Ring
             { 17, 105000 }, -- Extinguished Ember of Galakras
             { 18, 105108 }, -- Signet of the Dinomancers
-            { 19, 105130 }, -- Iyookuk's Hereditary Seal
+            { 19, 105130 }, -- Iyyokuk's Hereditary Seal
             -- Spirit Int
             { 21, 104925 }, -- Seal of Eternal Sorrow
             { 22, 105022 }, -- Laser-Slice Signet
@@ -673,7 +676,7 @@ data["AugustStoneClusterVendorMoP"] = {
             { 1, 104961 }, -- Fusion-Fire Core
             { 2, 104993 }, -- Evil Eye of Galakras
             { 3, 105111 }, -- Thok's Tail Tip
-            { 4, 105134 }, -- Skeer's Bloodsoaker Talisman
+            { 4, 105134 }, -- Skeer's Bloodsoaked Talisman
             -- Agility
             { 6, 104974 }, -- Assurance of Consequence
             { 7, 105029 }, -- Haromm's Talisman

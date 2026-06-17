@@ -3538,6 +3538,7 @@ if AtlasLoot:GameVersion_GE(AtlasLoot.MOP_VERSION_NUM) then
         [105072] = "AugustStoneCluster:50",
         [105073] = "AugustStoneCluster:50",
         [105074] = "AugustStoneCluster:50",
+        [105075] = "AugustStoneCluster:30",
         [105076] = "AugustStoneCluster:30",
         [105077] = "AugustStoneCluster:20",
         [105078] = "AugustStoneCluster:50",
