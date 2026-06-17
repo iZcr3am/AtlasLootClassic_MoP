@@ -701,34 +701,34 @@ data["TempleOfTheJadeSerpent"] = {
                 -- Head
                 { 1, 105088 }, -- Helm of the Night Watchman
                 -- Neck
+                { 3, 105124 }, -- Blackfuse's Blasting Cord
                 -- Shoulder
                 -- Cloak
                 -- Chest
-                { 3, 105034 }, -- Breastplate of Shamanic Mirrors
-                { 4, 105106 }, -- Akolik's Acid-Soaked Robes
+                { 5, 105106 }, -- Akolik's Acid-Soaked Robes
+                { 6, 105034 }, -- Breastplate of Shamanic Mirrors
                 -- Wrist
-                { 6, 105079 }, -- Bracers of Averted Fatality
-                { 7, 104917 }, -- Bracers of Sordid Sleep
-                { 8, 105007 }, -- Laser Burn Bracers
+                { 8, 105079 }, -- Bracers of Averted Fatality
+                { 9, 105007 }, -- Laser Burn Bracers
+                { 10, 104917 }, -- Bracers of Sordid Sleep
                 -- Hands
-                { 10, 105115 }, -- Fusespark Gloves
+                { 12, 105115 }, -- Fusespark Gloves
                 -- Waist
                 -- Legs
-                { 12, 105142 }, -- Legplates of Unthinking Strife
+                { 14, 105142 }, -- Legplates of Unthinking Strife
                 -- Feet
-                { 14, 104926 }, -- Salt Water Sandals
-                { 15, 104998 }, -- Skydancer Boots
+                { 16, 104998 }, -- Skydancer Boots
+                { 17, 104926 }, -- Salt Water Sandals
                 -- Finger
                 -- Trinket
-                { 16, 105124 }, -- Blackfuse's Blasting Cord
-                { 17, 105016 }, -- Juggernaut's Focusing Crystal
-                { 18, 105051 }, -- Nazgrim's Burnished Insignia
+                { 19, 105016 }, -- Juggernaut's Focusing Crystal
+                { 20, 105051 }, -- Nazgrim's Burnished Insignia
                 -- Weapons
                 -- 1H Axe
                 -- 1H Mace
-                { 20, 105043 }, -- Kardris' Scepter
+                { 22, 105043 }, -- Kardris' Scepter
                 -- 1H Sword
-                { 22, 104962 }, -- Xifeng, Longblade of the Titanic Guardian
+                { 24, 104962 }, -- Xifeng, Longblade of the Titanic Guardian
                 -- 2H Axe
                 -- 2H Mace
                 -- 2H Sword
@@ -738,7 +738,7 @@ data["TempleOfTheJadeSerpent"] = {
                 -- Crossbow
                 -- Bow
                 -- Gun
-                { 24, 105061 }, -- Kor'kron Hand Cannon
+                { 26, 105061 }, -- Kor'kron Hand Cannon
                 -- Wand
                 -- Staff
                 -- Off Hand
@@ -887,8 +887,8 @@ data["ShadoPanMonastery"] = {
             },
             [CELESTIAL_DIFF] = {
                 -- Head
-                { 1, 104959 }, -- Rage-Blind Greathelm
-                { 2, 105040 }, -- Iron Wolf Hood
+                { 1, 105040 }, -- Iron Wolf Hood
+                { 2, 104959 }, -- Rage-Blind Greathelm
                 -- Neck
                 -- Shoulder
                 { 4, 105157 }, -- Mantle of Looming Darkness
@@ -896,8 +896,8 @@ data["ShadoPanMonastery"] = {
                 { 6, 105421 }, -- Cloak of Misguided Power
                 -- Chest
                 -- Wrist
-                { 8, 105004 }, -- Smoldering Drakescale Bracers
-                { 9, 105085 }, -- Mantid Carapace Augments
+                { 8, 105085 }, -- Mantid Carapace Augments
+                { 9, 105004 }, -- Smoldering Drakescale Bracers
                 -- Hands
                 { 11, 104950 }, -- Grips of the Fallen Council
                 { 12, 105013 }, -- Tar-Coated Gauntlets
@@ -1057,8 +1057,8 @@ data["MoguShanPalace"] = {
                 { 1, 105053 }, -- Shoulderguards of the Righteous Stand
                 -- Cloak
                 -- Chest
-                { 3, 105081 }, -- Terrorguard Chestplate
-                { 4, 105063 }, -- Lazahk's Lost Shadowwrap
+                { 3, 105063 }, -- Lazahk's Lost Shadowwrap
+                { 4, 105081 }, -- Terrorguard Chestplate
                 -- Wrist
                 { 6, 104973 }, -- Wristplates of Broken Doubt
                 -- Hands
@@ -1238,9 +1238,9 @@ data["GateoftheSettingSun"] = {
                 { 3, 104909 }, -- Immerseus' Crystalline Eye
                 -- Shoulder
                 { 5, 104999 }, -- Shoulderpads of Pulsing Protection
-                { 6, 104918 }, -- Pauldrons of Violent Eruption
-                { 7, 104936 }, -- Darkfallen Shoulderplates
-                { 8, 105008 }, -- Ricocheting Shoulderguards
+                { 6, 105008 }, -- Ricocheting Shoulderguards
+                { 7, 104918 }, -- Pauldrons of Violent Eruption
+                { 8, 104936 }, -- Darkfallen Shoulderplates
                 -- Cloak
                 -- Chest
                 { 10, 105080 }, -- Ebon Blood Chestguard
@@ -1250,8 +1250,8 @@ data["GateoftheSettingSun"] = {
                 -- Waist
                 { 14, 105017 }, -- Belt of Ominous Trembles
                 -- Legs
-                { 16, 104972 }, -- Shadow-Binder's Kilt
-                { 17, 105098 }, -- Shado-Pan Reliquary Kit
+                { 16, 105098 }, -- Shado-Pan Reliquary Kit
+                { 17, 104972 }, -- Shadow-Binder's Kilt
                 -- Feet
                 -- Finger
                 -- Trinket
@@ -1427,9 +1427,9 @@ data["SiegeofNiuzaoTemple"] = {
             },
             [CELESTIAL_DIFF] = {
                 -- Head
-                { 1, 105140 }, -- Penetrating Gaze of Y'Shaarj
-                { 2, 104951 }, -- Gaze of Echoing Despair
-                { 3, 105149 }, -- Ebon Ritual Hood
+                { 1, 105149 }, -- Ebon Ritual Hood
+                { 2, 105140 }, -- Penetrating Gaze of Y'Shaarj
+                { 3, 104951 }, -- Gaze of Echoing Despair
                 -- Neck
                 { 5, 105095 }, -- Lost Necklace of the Mogu Empress
                 { 6, 105068 }, -- Malkorok's Tainted Dog Tags
@@ -1437,9 +1437,9 @@ data["SiegeofNiuzaoTemple"] = {
                 { 8, 105059 }, -- Spaulders of Kor'kron Fealty
                 -- Cloak
                 -- Chest
-                { 10, 105014 }, -- Earthbreaker's Steaming Chestplate
-                { 11, 104942 }, -- Robes of the Tendered Heart
-                { 12, 105131 }, -- Amber Parasite Wraps
+                { 10, 104942 }, -- Robes of the Tendered Heart
+                { 11, 105131 }, -- Amber Parasite Wraps
+                { 12, 105014 }, -- Earthbreaker's Steaming Chestplate
                 -- Wrist
                 -- Hands
                 { 14, 104915 }, -- Corruption-Rotted Gauntlets
@@ -1573,20 +1573,20 @@ data["ScarletHallsMoP"] = {
             },
             [CELESTIAL_DIFF] = {
                 -- Head
-                { 1, 105145 }, -- Greathelm of the Warchief
-                { 2, 104911 }, -- Hood of Blackened Tears
+                { 1, 104911 }, -- Hood of Blackened Tears
+                { 2, 105145 }, -- Greathelm of the Warchief
                 -- Neck
                 -- Shoulder
-                { 4, 105046 }, -- Shoulderguards of Foul Streams
-                { 5, 104947 }, -- Shoulders of the Roiling Inferno
-                { 6, 105154 }, -- Hopeglow Spaulders
+                { 4, 104947 }, -- Shoulders of the Roiling Inferno
+                { 5, 105154 }, -- Hopeglow Spaulders
+                { 6, 105046 }, -- Shoulderguards of Foul Streams
                 -- Cloak
                 { 8, 105028 }, -- Poisonmist Nightcloak
                 -- Chest
                 { 10, 105054 }, -- Robes of the Warrior's Fall
                 -- Wrist
-                { 12, 105100 }, -- Bracers of the Pristine Purifier
-                { 13, 105019 }, -- Bracers of the Broken Fault
+                { 12, 105019 }, -- Bracers of the Broken Fault
+                { 13, 105100 }, -- Bracers of the Pristine Purifier                
                 { 14, 105064 }, -- Wristguards of Ruination
                 -- Hands
                 { 16, 104920 }, -- Bolt-Burster Grips
@@ -1731,8 +1731,8 @@ data["ScarletMonasteryMoP"] = {
                 { 4, 105128 }, -- Bracers of Sonic Projection
                 -- Hands
                 -- Waist
-                { 6, 105101 }, -- Plate Belt of the War-Healer
-                { 7, 105137 }, -- Cord of Black Dreams
+                { 6, 105137 }, -- Cord of Black Dreams
+                { 7, 105101 }, -- Plate Belt of the War-Healer
                 -- Legs
                 { 9, 104912 }, -- Puddle Punishers
                 -- Feet
