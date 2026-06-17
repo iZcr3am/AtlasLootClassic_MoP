@@ -720,16 +720,18 @@ data["TempleOfTheJadeSerpent"] = {
                 -- Feet
                 { 10, 104998 }, -- Skydancer Boots
                 { 11, 104926 }, -- Salt Water Sandals
+                { 12, 105025 }, -- Treads of Autonomic Motion
                 -- Finger
+                { 13, 104953 }, -- Reality Ripper Ring
                 -- Trinket
-                { 12, 105016 }, -- Juggernaut's Focusing Crystal
-                { 13, 105051 }, -- Nazgrim's Burnished Insignia
+                { 14, 105016 }, -- Juggernaut's Focusing Crystal
+                { 15, 105051 }, -- Nazgrim's Burnished Insignia
                 -- Weapons
                 -- 1H Axe
                 -- 1H Mace
-                { 14, 105043 }, -- Kardris' Scepter
+                { 16, 105043 }, -- Kardris' Scepter
                 -- 1H Sword
-                { 15, 104962 }, -- Xifeng, Longblade of the Titanic Guardian
+                { 17, 104962 }, -- Xifeng, Longblade of the Titanic Guardian
                 -- 2H Axe
                 -- 2H Mace
                 -- 2H Sword
@@ -739,7 +741,7 @@ data["TempleOfTheJadeSerpent"] = {
                 -- Crossbow
                 -- Bow
                 -- Gun
-                { 16, 105061 }, -- Kor'kron Hand Cannon
+                { 18, 105061 }, -- Kor'kron Hand Cannon
                 -- Wand
                 -- Staff
                 -- Off Hand
@@ -1476,6 +1478,7 @@ data["SiegeofNiuzaoTemple"] = {
                 -- Staff
                 -- Off Hand
                 { 18, 105058 }, -- Bulwark of the Fallen General
+                { 19, 105023 }, -- Juggernaut's Power Core
 
                 -------------- Regular Dungeon Loot --------------
                 { 101, 87547 }, -- Tolakesh, Horn of the Black Ox
@@ -1586,28 +1589,31 @@ data["ScarletHallsMoP"] = {
                 { 3, 104947 }, -- Shoulders of the Roiling Inferno
                 { 4, 105154 }, -- Hopeglow Spaulders
                 { 5, 105046 }, -- Shoulderguards of Foul Streams
+                { 6, 104992 }, -- Krugruk's Rigid Shoulderplates
                 -- Cloak
-                { 6, 105028 }, -- Poisonmist Nightcloak
+                { 7, 105028 }, -- Poisonmist Nightcloak
                 -- Chest
-                { 7, 105054 }, -- Robes of the Warrior's Fall
+                { 8, 105054 }, -- Robes of the Warrior's Fall
                 -- Wrist
-                { 8, 105019 }, -- Bracers of the Broken Fault
-                { 9, 105100 }, -- Bracers of the Pristine Purifier
-                { 10, 105064 }, -- Wristguards of Ruination
+                { 9, 105019 }, -- Bracers of the Broken Fault
+                { 10, 105100 }, -- Bracers of the Pristine Purifier
+                { 11, 105064 }, -- Wristguards of Ruination
+                { 12, 105118 }, -- Bomber's Blackened Wristwatch
                 -- Hands
-                { 11, 104920 }, -- Bolt-Burster Grips
+                { 13, 104920 }, -- Bolt-Burster Grips
                 -- Waist
+                { 14, 104965 }, -- Sash of the Last Guardian
                 -- Legs
                 -- Feet
                 -- Finger
-                { 12, 105091 }, -- Seal of the Forgotten Kings
+                { 15, 105091 }, -- Seal of the Forgotten Kings
                 -- Trinket
-                { 13, 105109 }, -- Thok's Acid-Grooved Tooth
-                { 14, 104974 }, -- Assurance of Consequence
+                { 16, 105109 }, -- Thok's Acid-Grooved Tooth
+                { 17, 104974 }, -- Assurance of Consequence
                 -- Weapons
                 -- 1H Axe
-                { 15, 105127 }, -- Korven's Crimson Crescent
-                { 16, 105037 }, -- Haromm's Frozen Crescent
+                { 18, 105127 }, -- Korven's Crimson Crescent
+                { 19, 105037 }, -- Haromm's Frozen Crescent
                 -- 1H Mace
                 -- 1H Sword
                 -- 2H Axe
@@ -1621,10 +1627,10 @@ data["ScarletHallsMoP"] = {
                 -- Gun
                 -- Wand
                 -- Staff
-                { 17, 105136 }, -- Kor'kron Spire of Supremacy
-                { 18, 105001 }, -- Drakebinder Greatstaff
+                { 20, 105136 }, -- Kor'kron Spire of Supremacy
+                { 21, 105001 }, -- Drakebinder Greatstaff
                 -- Off Hand
-                { 19, 104983 }, -- Shield of Mockery
+                { 22, 104983 }, -- Shield of Mockery
 
                 -------------- Regular Dungeon Loot --------------
                 { 101, 87550 },	-- Vithrak, Gaze of the Deadman

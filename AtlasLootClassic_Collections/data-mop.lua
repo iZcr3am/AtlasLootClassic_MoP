@@ -424,7 +424,6 @@ data["AugustStoneClusterVendorMoP"] = {
             { 119, 105078 }, -- Boots of Perilous Infusion
             { 120, 105084 }, -- Pandaren Roofsprinters
             { 121, 104926 }, -- Salt Water Sandals
-
         },
     },
     {
