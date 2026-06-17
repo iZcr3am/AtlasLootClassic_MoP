@@ -887,16 +887,29 @@ data["ShadoPanMonastery"] = {
             },
             [CELESTIAL_DIFF] = {
                 -- Head
+                { 1, 104959 }, -- Rage-Blind Greathelm
+                { 2, 105040 }, -- Iron Wolf Hood
                 -- Neck
                 -- Shoulder
+                { 4, 105157 }, -- Mantle of Looming Darkness
                 -- Cloak
+                { 6, 105421 }, -- Cloak of Misguided Power
                 -- Chest
                 -- Wrist
+                { 8, 105004 }, -- Smoldering Drakescale Bracers
+                { 9, 105085 }, -- Mantid Carapace Augments
                 -- Hands
+                { 11, 104950 }, -- Grips of the Fallen Council
+                { 12, 105013 }, -- Tar-Coated Gauntlets
                 -- Waist
                 -- Legs
+                { 14, 105067 }, -- Legplates of Willful Doom
                 -- Feet
+                { 16, 104941 }, -- Sha-Seared Sandals
+                { 17, 104995 }, -- Bone-Inlaid Sandals
                 -- Finger
+                { 19, 105076 }, -- Seal of Sullen Fury
+                { 20, 105130 }, -- Iyyokuk's Hereditary Seal
                 -- Trinket
                 -- Weapons
                 -- 1H Axe
@@ -906,8 +919,11 @@ data["ShadoPanMonastery"] = {
                 -- 2H Mace
                 -- 2H Sword
                 -- Fist Weapon
+                { 22, 104932 }, -- Softfoot's Last Resort
                 -- Polearm
+                { 24, 105112 }, -- Britomart's Jagged Pike
                 -- Dagger
+                { 26, 105103 }, -- Hvitserk's Formidable Shanker
                 -- Crossbow
                 -- Bow
                 -- Gun
