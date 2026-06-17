@@ -517,33 +517,6 @@ data["StormstoutBrewery"] = {
                 { 18, "ac6456" },
             },
             [CELESTIAL_DIFF] = {
-                { 1, 95870}, -- Abandoned Spaulders of Arrowflight
-                { 2, 95871}, -- Abandoned Spaulders of Renewal
-                { 3, 95976}, -- Abandoned Zandalari Bucklebreaker
-                { 4, 95975}, -- Abandoned Zandalari Goreplate
-                { 5, 95648}, -- Bindings of Multiplicative Strikes
-                { 6, 95753}, -- Black Blood Legplates
-                { 7, 95728}, -- Durumu's Baleful Gaze
-                { 8, 95726}, -- Fabled Feather of Ji-Kun
-                { 9, 95869}, -- Forgotten Mantle of the Sun
-                { 10, 95672}, -- Gaze of Gara'jal
-                { 11, 95701}, -- Grips of Cinderflesh
-                { 12, 95755}, -- Hydra-Scale Bloodcloak
-                { 13, 95780}, -- Iron Qon's Boot Knife
-                { 14, 95647}, -- Jalak's Maelstrom Staff
-                { 15, 95727}, -- Ji-Kun's Rising Winds
-                { 16, 95821}, -- Legplates of the Lightning Throne
-                { 17, 95808}, -- Legplates of Whipping Ionization
-                { 18, 95673}, -- Loa-Ridden Bracers
-                { 19, 95754}, -- Metabolically Boosted Shoulderplates
-                { 20, 95977}, -- Necklace of the Terra-Cotta Vanquisher
-                { 21, 95674}, -- Overloaded Bladebreaker Cuirass
-                { 22, 95700}, -- Poisonblood Bladeshoulders
-                { 23, 95699}, -- Quadra-Head Brooch
-                { 24, 95782}, -- Quet'zal's Crackling Cord
-                { 25, 95646}, -- Talisman of Living Poison
-                { 26, 95809}, -- Uroe, Harbinger of Terror
-                { 27, 95781}, -- Voice of the Quilen
                 { 101, 87545 },	-- Inelava, Spirit of Inebriation
                 { 102, 81059 },	-- Fermenting Belt
                 { 103, 81068 },	-- Fizzy Spaulders
@@ -680,33 +653,6 @@ data["TempleOfTheJadeSerpent"] = {
                 { 21, "ac6671" },
             },
             [CELESTIAL_DIFF] = {
-                { 1, 95731 }, -- Aberrant Chestguard of Torment
-                { 2, 95758 }, -- Acid-Spine Bonemace
-                { 3, 95756 }, -- Band of the Scaled Tyrant
-                { 4, 95651 }, -- Bloodlord's Bloodsoaked Legplates
-                { 5, 95979 }, -- Columnbreaker Stompers
-                { 6, 95729 }, -- Crimson Bloom Legguards
-                { 7, 95784 }, -- Dam'ren's Frozen Footguards
-                { 8, 95677 }, -- Fortitude of the Zandalari
-                { 9, 95650 }, -- Frozen Warlord's Bracers
-                { 10, 95812 }, -- Legwraps of Cardinality
-                { 11, 95730 }, -- Links of the Disintegrator
-                { 12, 95978 }, -- Locksmasher Greaves
-                { 13, 95980 }, -- Necklace of the Terra-Cotta Protector
-                { 14, 95702 }, -- Plated Toothbreaker Girdle
-                { 15, 95757 }, -- Primordius' Talisman of Rage
-                { 16, 95872 }, -- Reconstructed Holy Shoulderplates
-                { 17, 95873 }, -- Reconstructed Furious Shoulderplates
-                { 18, 95874 }, -- Reconstructed Bloody Shoulderplates
-                { 19, 95785 }, -- Ro'shak's Remembrance
-                { 20, 95703 }, -- Rot-Proof Greatplate
-                { 21, 95783 }, -- Saddle-Scarred Leggings
-                { 22, 95811 }, -- Soul Barrier
-                { 23, 95704 }, -- Spinescale Seal
-                { 24, 95649 }, -- Sul'lithuz Sandmail
-                { 25, 95676 }, -- Talisman of Angry Spirits
-                { 26, 95810 }, -- Ultimate Protection of the Emperor
-                { 27, 95675 }, -- Zerat, Malakk's Soulburning Greatsword
                 { 101, 87544 },	-- Je'lyu, Spirit of the Serpent
                 { 102, 81129 },	-- Cloak of Failing Will
                 { 103, 81132 },	-- Paralyzing Gloves
@@ -849,33 +795,6 @@ data["ShadoPanMonastery"] = {
                 { 19, "ac6471" },
             },
             [CELESTIAL_DIFF] = {
-                { 1, 95971 },  -- Abandoned Zandalari Moonstrap
-                { 2, 95970 },  -- Abandoned Zandalari Silentbelt
-                { 3, 95776 },  -- Anima-Ringed Fingers
-                { 4, 95774 },  -- Athame of the Sanguine Ritual
-                { 5, 95639 },  -- Drape of Booming Nights
-                { 6, 95721 },  -- Featherflight Belt
-                { 7, 95720 },  -- Giorgio's Caduceus of Pure Moods
-                { 8, 95749 },  -- Gloves of Cushioned Air
-                { 9, 95722 },  -- Grasp of the Ruthless Mother
-                { 10, 95642 },  -- Infinitely Conducting Bracers
-                { 11, 95666 },  -- Kura-Kura, Kazra'jin's Skullcleaver
-                { 12, 95747 },  -- Legplates of Re-Emergence
-                { 13, 95863 },  -- Lost Shoulders of Fire
-                { 14, 95865 },  -- Lost Shoulders of Fluidity
-                { 15, 95864 },  -- Lost Shoulders of Healing
-                { 16, 95667 },  -- Mar'li's Bloodstained Sandals
-                { 17, 95800 },  -- Moonjade Necklace
-                { 18, 95969 },  -- Necklace of the Terra-Cotta Mender
-                { 19, 95694 },  -- Robes of Concussive Shocks
-                { 20, 95802 },  -- Rune of Re-Origination
-                { 21, 95803 },  -- Shan-Dun, Breaker of Hope
-                { 22, 95640 },  -- Soulblade of the Breaking Storm
-                { 23, 95695 },  -- Spaulders of Quaking Fear
-                { 24, 95748 },  -- Talisman of Bloodlust
-                { 25, 95693 },  -- Vampire Bat-Hide Bracers
-                { 26, 95775 },  -- Worldbinder Leggings
-                { 27, 95668 },  -- Zandalari Robes of the Final Rite
                 { 101, 87543 },	-- Ka'eng, Breath of the Shadow
                 { 102, 81188 },	-- Robes of Fevered Dreams
                 { 103, 81093 },	-- Darkbinder Leggings
@@ -995,33 +914,6 @@ data["MoguShanPalace"] = {
                 { 19, "ac6736" },
             },
             [CELESTIAL_DIFF] = {
-                { 1, 95735 }, -- Artery Rippers
-                { 2, 95681 }, -- Beady-Eye Bracers
-                { 3, 95762 }, -- Bracers of Fragile Bone
-                { 4, 95629 }, -- Cloudbreaker Greatbelt
-                { 5, 95657 }, -- Dinomancer's Spiritbinding Spire
-                { 6, 95737 }, -- Durumu's Severed Tentacle
-                { 7, 95710 }, -- Fetish of the Hydra
-                { 8, 95655 }, -- Flamecaster's Burning Crown
-                { 9, 95708 }, -- Frostborn Wristwraps
-                { 10, 95764 }, -- Leggings of the Malformed Sapling
-                { 11, 95818 }, -- Lei Shen's Orb of Command
-                { 12, 95817 }, -- Lightning-Imbued Chalice
-                { 13, 95709 }, -- Megaera's Shining Eye
-                { 14, 95958 }, -- Necklace of the Terra-Cotta Archer
-                { 15, 95790 }, -- Qon's Flaming Scimitar
-                { 16, 95682 }, -- Quakestompers
-                { 17, 95789 }, -- Rein-Binder's Fists
-                { 18, 95736 }, -- Reinforced Mirror-Sheen Cloak
-                { 19, 95683 }, -- Shoulderguards of Centripetal Destruction
-                { 20, 95816 }, -- Soul Prism of Lei Shen
-                { 21, 95627 }, -- Spearman's Jingling Leggings
-                { 22, 95959 }, -- Spiderweb Tabi
-                { 23, 95628 }, -- Static-Shot Shoulderguards
-                { 24, 95763 }, -- Stolen Relic of Zuldazar
-                { 25, 95656 }, -- Vaccinator's Armwraps
-                { 26, 95878 }, -- Visage of the Doomed
-                { 27, 95791 }, -- Wu-Lai, Bladed Fan of the Empyreans
                 { 101, 87542 },	-- Mogu'Dar, Blade of the Thousand Slaves
                 { 102, 81257 },	-- Regal Silk Shoulderpads
                 { 103, 81255 },	-- Soulbinder Treads
@@ -1157,33 +1049,6 @@ data["GateoftheSettingSun"] = {
                 { 19, "ac6945" },
             },
             [CELESTIAL_DIFF] = {
-                { 1, 95877 }, -- Bo-Ris, Horror in the Night
-                { 2, 95732 }, -- Caustic Spike Bracers
-                { 3, 95876 }, -- Do-tharak, the Swordbreaker
-                { 4, 95707 }, -- Gleaming-Eye Shoulderpads
-                { 5, 95813 }, -- Gloves of the Maimed Vizier
-                { 6, 95875 }, -- Greatsword of Frozen Hells
-                { 7, 95680 }, -- Grips of Vampiric Cruelty
-                { 8, 95760 }, -- Helix-Breaker Gloves
-                { 9, 95653 }, -- Horn-Rimmed Doomcloak
-                { 10, 95705 }, -- Hydraskull Choker
-                { 11, 95761 }, -- Leggings of Ebon Veins
-                { 12, 95733 }, -- Legplates of the Dark Parasite
-                { 13, 95626 }, -- Lightning-Eye Hood
-                { 14, 95786 }, -- Orb of Arcing Lightning
-                { 15, 95652 }, -- Puncture-Proof Greathelm
-                { 16, 95625 }, -- Renataki's Soul Charm
-                { 17, 95788 }, -- Ro'shak's Molten Chain
-                { 18, 95759 }, -- Robes of Mutagenic Blood
-                { 19, 95679 }, -- Rockfall Ribwraps
-                { 20, 95706 }, -- Sandals of Arcane Fury
-                { 21, 95678 }, -- Shattered Tortoiseshell Longbow
-                { 22, 95624 }, -- Sign of the Bloodied God
-                { 23, 95654 }, -- Spark of Zandalar
-                { 24, 95787 }, -- Spurs of the Storm Cavalry
-                { 25, 95815 }, -- Torall, Rod of the Shattered Throne
-                { 26, 95734 }, -- Treads of the Blind Eye
-                { 27, 95814 }, -- Unerring Vision of Lei Shen
                 { 101, 87546 },	-- Klatith, Fangs of the Swarm
                 { 102, 81234 },	-- Drape of the Screeching Swarm
                 { 103, 81235 },	-- Shoulders of Engulfing Winds
@@ -1331,33 +1196,6 @@ data["SiegeofNiuzaoTemple"] = {
                 { 19, "ac6822" },
             },
             [CELESTIAL_DIFF] = {
-                { 1, 95972 }, -- Abandoned Zandalari Arrowlinks
-                { 2, 95974 }, -- Abandoned Zandalari Greatbelt
-                { 3, 95973 }, -- Abandoned Zandalari Waterchain
-                { 4, 95670 }, -- Amun-Thoth, Sul's Spiritrending Talons
-                { 5, 95750 }, -- Bracers of Mutagenic Fervor
-                { 6, 95805 }, -- Conduit-Breaker Chain Leggings
-                { 7, 95723 }, -- Crown of Potentiated Birth
-                { 8, 95778 }, -- Crown of the Golden Golem
-                { 9, 95779 }, -- Delicate Vial of the Sanguinaire
-                { 10, 95806 }, -- Doomed Crown of Lei Shen
-                { 11, 95725 }, -- Egg-Shard Grips
-                { 12, 95868 }, -- Forgotten Mantle of the Moon
-                { 13, 95804 }, -- Fusion Slasher Chestguard
-                { 14, 95643 }, -- Ghostbinder Greatboots
-                { 15, 95644 }, -- Ionized Yojamban Carapace
-                { 16, 95867 }, -- Jerthud, Graceful Hand of the Savior
-                { 17, 95777 }, -- Matter-Swapped Legplates
-                { 18, 95698 }, -- Megaera's Poisoned Fang
-                { 19, 95866 }, -- Nadagast's Exsanguinator
-                { 20, 95752 }, -- Pathogenic Gauntlets
-                { 21, 95696 }, -- Refreshing Abalone Girdle
-                { 22, 95671 }, -- Robes of Treacherous Ground
-                { 23, 95751 }, -- Synapse-String Handguards
-                { 24, 95724 }, -- Talonrender Chestplate
-                { 25, 95697 }, -- Tortos' Shellseizers
-                { 26, 95645 }, -- Wastewalker's Sandblasted Drape
-                { 27, 95669 }, -- Wushoolay's Final Choice
                 { 101, 87547 }, -- Tolakesh, Horn of the Black Ox
                 { 102, 81289 },	-- Breezeswept Hood
                 { 103, 81291 },	-- Whisperwind Spaulders
@@ -1458,33 +1296,6 @@ data["ScarletHallsMoP"] = {
                 { 18, "ac6760" },
             },
             [CELESTIAL_DIFF] = {
-                { 1, 95961 }, --Abandoned Zandalari Firecord
-                { 2, 95962 }, --Abandoned Zandalari Shadowgirdle
-                { 3, 95685 }, --Amulet of the Primal Turtle
-                { 4, 95766 }, --Bonemender Bracers
-                { 5, 95631 }, --Bracers of Constant Implosion
-                { 6, 95711 }, --Breath of the Hydra
-                { 7, 95630 }, --Chestplate of Violent Detonation
-                { 8, 95740 }, --Chilblain Spaulders
-                { 9, 95765 }, --Clear-Mind Helm
-                { 10, 95819 }, -- Grips of Slicing Electricity
-                { 11, 95713 }, -- Hood of Smoldering Flesh
-                { 12, 95641 }, -- Horridon's Last Gasp
-                { 13, 95658 }, -- Horridon's Tusk Fragment
-                { 14, 95712 }, -- Inscribed Bag of Hydra-Spawn
-                { 15, 95739 }, -- Leggings of Pulsing Blood
-                { 16, 95820 }, -- Leggings of the Violent Gale
-                { 17, 95821 }, -- Lei Shen's Grounded Carapace
-                { 18, 95738 }, -- Lifedrainer's Sordid Grip
-                { 19, 95793 }, -- Passionfire Choker
-                { 20, 95659 }, -- Petrified Eye of the Basilisk
-                { 21, 95792 }, -- Robes of the Moon Lotus
-                { 22, 95960 }, -- Scalehide Spurs
-                { 23, 95684 }, -- Shell-Coated Wristplates
-                { 24, 95686 }, -- Shellsplitter Greataxe
-                { 25, 95794 }, -- Shield of Twinned Despair
-                { 26, 95767 }, -- Spaulders of Primordial Growth
-                { 27, 95632 }, -- Worldbreaker's Stormscythe
                 { 101, 87550 },	-- Vithrak, Gaze of the Deadman
                 { 102, 82817 },	-- Robes of Koegler
                 { 103, 82818 },	-- Vellum-Ripper Gloves
@@ -1584,33 +1395,6 @@ data["ScarletMonasteryMoP"] = {
                 { 19, "ac6929" },
             },
             [CELESTIAL_DIFF] = {
-                { 1, 95635 }, -- Al'set's Tormented Leggings
-                { 2, 95688 }, -- Azure Shell Bracers
-                { 3, 95687 }, -- Beakbreaker Greatcloak
-                { 4, 95796 }, -- Bracers of the Midnight Comet
-                { 5, 95715 }, -- Chain of Consuming Magic
-                { 6, 95741 }, -- Deadly Glare Cape
-                { 7, 95742 }, -- Durumu's Captive Eyeball
-                { 8, 95860 }, -- Fyn's Flickering Dagger
-                { 9, 95797 }, -- Girdle of Night and Day
-                { 10, 95769 }, -- Gore-Soaked Gear
-                { 11, 95768 }, -- Greatshield of the Gloaming
-                { 12, 95770 }, -- Hand of the Dark Animus
-                { 13, 95965 }, -- Home-Warding Slippers
-                { 14, 95716 }, -- Ice-Scored Treads
-                { 15, 95858 }, -- Invocation of the Dawn
-                { 16, 95633 }, -- Jin'rokh's Soulcrystal
-                { 17, 95634 }, -- Lightningweaver Gauntlets
-                { 18, 95714 }, -- Links of the Bifurcated Tongue
-                { 19, 95859 }, -- Miracoran, the Vehement Chord
-                { 20, 95964 }, -- Necklace of the Terra-Cotta Invoker
-                { 21, 95743 }, -- Ritual Dagger of the Mind's Eye
-                { 22, 95661 }, -- Roots of Rampaging Earth
-                { 23, 95963 }, -- Silentflame Sandals
-                { 24, 95662 }, -- Spaulders of Dinomancy
-                { 25, 95689 }, -- Stonegaze Hood
-                { 26, 95795 }, -- Suen-Wo, Spire of the Falling Sun
-                { 27, 95660 }, -- Venomlord's Totemic Wand
                 { 101, 87551 },	-- Helios, Durand's Soul of Purity
                 { 102, 81692 },	-- Whitemane's Embroidered Chapeau
                 { 103, 81689 },	-- Leggings of Hallowed Fire
@@ -1755,33 +1539,6 @@ data["ScholomanceMoP"] = {
                 { 19, "ac6821" },
             },
             [CELESTIAL_DIFF] = {
-                { 1, 95664 }, -- Armplates of the Vanquished Abomination
-                { 2, 95665 }, -- Bad Juju
-                { 3, 95772 }, -- Cha-Ye's Essence of Brilliance
-                { 4, 95773 }, -- Constantly Accelerating Cloak
-                { 5, 95718 }, -- Cord of Cacophonous Cawing
-                { 6, 95690 }, -- Crystal-Claw Gloves
-                { 7, 95862 }, -- Darkwood Spiritstaff
-                { 8, 95966 }, -- Deeproot Treads
-                { 9, 95801 }, -- Fingers of the Night
-                { 10, 95636 }, -- Fissure-Split Shoulderwraps
-                { 11, 95799 }, -- Gaze of the Twins
-                { 12, 95771 }, -- Hood of the Crimson Wake
-                { 13, 95746 }, -- Iceshatter Gauntlets
-                { 14, 95638 }, -- Jin'rokh's Dreamshard
-                { 15, 95663 }, -- Legguards of Scintillating Scales
-                { 16, 95717 }, -- Pinionfeather Greatcloak
-                { 17, 95719 }, -- Robe of Midnight Down
-                { 18, 95637 }, -- Robes of Static Bursts
-                { 19, 95744 }, -- Sandals of the Starving Eye
-                { 20, 95691 }, -- Shimmershell Cape
-                { 21, 95967 }, -- Spiritbound Boots
-                { 22, 97129 }, -- Tia-Tia, the Scything Star
-                { 23, 95798 }, -- Tidal Force Treads
-                { 24, 95692 }, -- Tortos' Discarded Shell
-                { 25, 95968 }, -- Vaultwalker Sabatons
-                { 26, 95745 }, -- Vein-Cover Bracers
-                { 27, 95861 }, -- Zeeg's Ancient Kegsmasher
                 { 101, 82859 }, -- Headmaster's Will
                 { 102, 82861 }, -- Incineration Belt
                 { 103, 82858 }, -- Tombstone Gauntlets
