@@ -563,7 +563,7 @@ data["AugustStoneClusterVendorMoP"] = {
             { 2, 105069 }, -- Malkorok's Skullcleaver
             { 3, 105127 }, -- Korven's Crimson Crescent
             -- 1H Mace
-            { 5, 104919 }, -- Encapsulated Essence of Immerseus      
+            { 5, 104919 }, -- Encapsulated Essence of Immerseus
             { 6, 105006 }, -- Seismic Bore
             { 7, 105043 }, -- Kardris' Scepter
             { 8, 105123 }, -- Siegecrafter's Forge Hammer
