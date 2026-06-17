@@ -1427,17 +1427,32 @@ data["SiegeofNiuzaoTemple"] = {
             },
             [CELESTIAL_DIFF] = {
                 -- Head
+                { 1, 105140 }, -- Penetrating Gaze of Y'Shaarj
+                { 2, 104951 }, -- Gaze of Echoing Despair
+                { 3, 105149 }, -- Ebon Ritual Hood
                 -- Neck
+                { 5, 105095 }, -- Lost Necklace of the Mogu Empress
+                { 6, 105068 }, -- Malkorok's Tainted Dog Tags
                 -- Shoulder
+                { 8, 105059 }, -- Spaulders of Kor'kron Fealty
                 -- Cloak
                 -- Chest
+                { 10, 105014 }, -- Earthbreaker's Steaming Chestplate
+                { 11, 104942 }, -- Robes of the Tendered Heart
+                { 12, 105131 }, -- Amber Parasite Wraps
                 -- Wrist
                 -- Hands
+                { 14, 104915 }, -- Corruption-Rotted Gauntlets
                 -- Waist
+                { 16, 105086 }, -- Arrowflight Girdle
                 -- Legs
+                { 18, 105005 }, -- Windfire Legplates
                 -- Feet
+                { 20, 104933 }, -- Stonetoe's Tormented Treads
                 -- Finger
+                { 22, 105113 }, -- Devilfang Band
                 -- Trinket
+                { 24, 104924 }, -- Purified Bindings of Immerseus
                 -- Weapons
                 -- 1H Axe
                 -- 1H Mace
@@ -1454,6 +1469,7 @@ data["SiegeofNiuzaoTemple"] = {
                 -- Wand
                 -- Staff
                 -- Off Hand
+                { 26, 105058 }, -- Bulwark of the Fallen General
 
                 -------------- Regular Dungeon Loot --------------
                 { 101, 87547 }, -- Tolakesh, Horn of the Black Ox
