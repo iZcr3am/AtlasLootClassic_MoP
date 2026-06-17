@@ -1054,19 +1054,33 @@ data["MoguShanPalace"] = {
                 -- Head
                 -- Neck
                 -- Shoulder
+                { 1, 105053 }, -- Shoulderguards of the Righteous Stand
                 -- Cloak
                 -- Chest
+                { 3, 105081 }, -- Terrorguard Chestplate
+                { 4, 105063 }, -- Lazahk's Lost Shadowwrap
                 -- Wrist
+                { 6, 104973 }, -- Wristplates of Broken Doubt
                 -- Hands
                 -- Waist
+                { 8, 105099 }, -- Chitin-Link Chain Belt
                 -- Legs
                 -- Feet
+                { 10, 105009 }, -- Minelayer's Padded Boots
+                { 11, 105090 }, -- Ominous Mogu Greatboots
+                { 12, 105027 }, -- Borer Drill Boots
                 -- Finger
+                { 16, 105126 }, -- Kil'ruk's Band of Ascendancy
+                { 17, 105000 }, -- Extinguished Ember of Galakras
+                { 18, 105036 }, -- Bloodclaw Band
                 -- Trinket
+                { 20, 105117 }, -- Dysmorphic Samophlange of Discontinuity
                 -- Weapons
                 -- 1H Axe
                 -- 1H Mace
+                { 22, 104919 }, -- Encapsulated Essence of Immerseus
                 -- 1H Sword
+                { 24, 105135 }, -- Kil'ruk's Furious Blade
                 -- 2H Axe
                 -- 2H Mace
                 -- 2H Sword
@@ -1078,7 +1092,9 @@ data["MoguShanPalace"] = {
                 -- Gun
                 -- Wand
                 -- Staff
+                { 26, 104910 }, -- Trident of Corrupted Waters
                 -- Off Hands
+                { 28, 104946 }, -- Purehearted Cricket Cage
 
                 -------------- Regular Dungeon Loot --------------
                 { 101, 87542 },	-- Mogu'Dar, Blade of the Thousand Slaves
