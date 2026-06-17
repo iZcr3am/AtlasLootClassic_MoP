@@ -551,7 +551,8 @@ data["AugustStoneClusterVendorMoP"] = {
             { 6, 105852 }, -- Aeth's Swiftcinder Cloak
             { 7, 105853 }, -- Turtleshell Greatcloak
             { 8, 105028 }, -- Poisonmist Nightcloak
-            { 9, 105075 }, -- Black-Blooded Drape
+            { 9, 105573 }, -- Black-Blooded Drape
+            { 10, 105437 }, -- Gloomwrap Greatcloak
         },
     },
     {
