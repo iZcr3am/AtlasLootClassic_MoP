@@ -559,7 +559,7 @@ data["StormstoutBrewery"] = {
                 -- Wand
                 { 25, 105096 }, -- Immaculately Preserved Wand
                 -- Staff
-                -- Off Hands
+                -- Off Hand
 
                 -------------- Regular Dungeon Loot --------------
                 { 101, 87545 },	-- Inelava, Spirit of Inebriation
@@ -741,7 +741,7 @@ data["TempleOfTheJadeSerpent"] = {
                 { 24, 105061 }, -- Kor'kron Hand Cannon
                 -- Wand
                 -- Staff
-                -- Off Hands
+                -- Off Hand
 
                 -------------- Regular Dungeon Loot --------------
                 { 101, 87544 },	-- Je'lyu, Spirit of the Serpent
@@ -929,7 +929,7 @@ data["ShadoPanMonastery"] = {
                 -- Gun
                 -- Wand
                 -- Staff
-                -- Off Hands
+                -- Off Hand
 
                 -------------- Regular Dungeon Loot --------------
                 { 101, 87543 },	-- Ka'eng, Breath of the Shadow
@@ -1093,7 +1093,7 @@ data["MoguShanPalace"] = {
                 -- Wand
                 -- Staff
                 { 26, 104910 }, -- Trident of Corrupted Waters
-                -- Off Hands
+                -- Off Hand
                 { 28, 104946 }, -- Purehearted Cricket Cage
 
                 -------------- Regular Dungeon Loot --------------
@@ -1233,33 +1233,50 @@ data["GateoftheSettingSun"] = {
             },
             [CELESTIAL_DIFF] = {
                 -- Head
+                { 1, 105044 }, -- Darkfang Mask
                 -- Neck
+                { 3, 104909 }, -- Immerseus' Crystalline Eye
                 -- Shoulder
+                { 5, 104999 }, -- Shoulderpads of Pulsing Protection
+                { 6, 104918 }, -- Pauldrons of Violent Eruption
+                { 7, 104936 }, -- Darkfallen Shoulderplates
+                { 8, 105008 }, -- Ricocheting Shoulderguards
                 -- Cloak
                 -- Chest
+                { 10, 105080 }, -- Ebon Blood Chestguard
                 -- Wrist
+                { 12, 104927 }, -- Bracers of Purified Spirit
                 -- Hands
                 -- Waist
+                { 14, 105017 }, -- Belt of Ominous Trembles
                 -- Legs
+                { 16, 104972 }, -- Shadow-Binder's Kilt
+                { 17, 105098 }, -- Shado-Pan Reliquary Kit
                 -- Feet
                 -- Finger
                 -- Trinket
+                { 19, 105134 }, -- Skeer's Bloodsoaked Talisman
                 -- Weapons
                 -- 1H Axe
                 -- 1H Mace
                 -- 1H Sword
+                { 21, 105052 }, -- Arcweaver Spell Sword
                 -- 2H Axe
                 -- 2H Mace
                 -- 2H Sword
+                { 23, 104981 }, -- Greatsword of Pride's Fall
                 -- Fist Weapon
                 -- Polearm
                 -- Dagger
                 -- Crossbow
                 -- Bow
+                { 25, 105125 }, -- Hisek's Reserver Longbow
                 -- Gun
                 -- Wand
                 -- Staff
-                -- Off Hands
+                { 27, 105116 }, -- Lever of the Megantholithic Apparatus
+                -- Off Hand
+                { 29, 105107 }, -- Festering Primordial Globule
 
                 -------------- Regular Dungeon Loot --------------
                 { 101, 87546 },	-- Klatith, Fangs of the Swarm
@@ -1436,7 +1453,7 @@ data["SiegeofNiuzaoTemple"] = {
                 -- Gun
                 -- Wand
                 -- Staff
-                -- Off Hands
+                -- Off Hand
 
                 -------------- Regular Dungeon Loot --------------
                 { 101, 87547 }, -- Tolakesh, Horn of the Black Ox
@@ -1566,7 +1583,7 @@ data["ScarletHallsMoP"] = {
                 -- Gun
                 -- Wand
                 -- Staff
-                -- Off Hands
+                -- Off Hand
 
                 -------------- Regular Dungeon Loot --------------
                 { 101, 87550 },	-- Vithrak, Gaze of the Deadman
@@ -1695,7 +1712,7 @@ data["ScarletMonasteryMoP"] = {
                 -- Gun
                 -- Wand
                 -- Staff
-                -- Off Hands
+                -- Off Hand
 
                 -------------- Regular Dungeon Loot --------------
                 { 101, 87551 },	-- Helios, Durand's Soul of Purity
@@ -1869,7 +1886,7 @@ data["ScholomanceMoP"] = {
                 -- Gun
                 -- Wand
                 -- Staff
-                -- Off Hands
+                -- Off Hand
 
                 -------------- Regular Dungeon Loot --------------
                 { 101, 82859 }, -- Headmaster's Will
