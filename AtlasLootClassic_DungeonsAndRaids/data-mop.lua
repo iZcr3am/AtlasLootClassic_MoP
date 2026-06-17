@@ -1906,17 +1906,29 @@ data["ScholomanceMoP"] = {
             },
             [CELESTIAL_DIFF] = {
                 -- Head
+                { 1, 105056 }, -- Crown of Tragic Truth
                 -- Neck
                 -- Shoulder
+                { 3, 104949 }, -- Shoulderguards of Dark Meditations
+                { 4, 105048 }, -- Shoulderplates of Gushing Geysers
                 -- Cloak
+                { 6, 105075 }, -- Black-Blooded Drape
                 -- Chest
                 -- Wrist
                 -- Hands
+                { 8, 105003 }, -- Grips of Tidal Force
                 -- Waist
+                { 10, 105030 }, -- Damron's Belt of Darkness
                 -- Legs
                 -- Feet
+                { 12, 105084 }, -- Pandaren Roofsprinters
                 -- Finger
+                { 14, 104985 }, -- Swift Serpent Signet
+                { 15, 104994 }, -- Galakrond Control Band
                 -- Trinket
+                { 16, 104940 }, -- Rook's Unlucky Talisman
+                { 17, 105147 }, -- Curse of Hubris
+                { 18, 104976 }, -- Prismatic Prison of Pride
                 -- Weapons
                 -- 1H Axe
                 -- 1H Mace
@@ -1927,6 +1939,7 @@ data["ScholomanceMoP"] = {
                 -- Fist Weapon
                 -- Polearm
                 -- Dagger
+                { 20, 105129 }, -- Rik'kal's Bloody Scalpel
                 -- Crossbow
                 -- Bow
                 -- Gun
