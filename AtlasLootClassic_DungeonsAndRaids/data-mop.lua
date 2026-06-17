@@ -1057,35 +1057,38 @@ data["MoguShanPalace"] = {
             },
             [CELESTIAL_DIFF] = {
                 -- Head
+                { 1, 105072 }, -- Hood of Perpetual Implosion
                 -- Neck
                 -- Shoulder
-                { 1, 105053 }, -- Shoulderguards of the Righteous Stand
+                { 2, 105053 }, -- Shoulderguards of the Righteous Stand
                 -- Cloak
                 -- Chest
-                { 2, 105063 }, -- Lazahk's Lost Shadowwrap
-                { 3, 105081 }, -- Terrorguard Chestplate
+                { 3, 105063 }, -- Lazahk's Lost Shadowwrap
+                { 4, 105081 }, -- Terrorguard Chestplate
                 -- Wrist
-                { 4, 104973 }, -- Wristplates of Broken Doubt
+                { 5, 104973 }, -- Wristplates of Broken Doubt
+                { 6, 104991 }, -- Arcsmasher Bracers
                 -- Hands
+                { 7, 104964 }, -- Blight Hurlers
                 -- Waist
-                { 5, 105099 }, -- Chitin-Link Chain Belt
+                { 8, 105099 }, -- Chitin-Link Chain Belt
                 -- Legs
                 -- Feet
-                { 6, 105009 }, -- Minelayer's Padded Boots
-                { 7, 105090 }, -- Ominous Mogu Greatboots
-                { 8, 105027 }, -- Borer Drill Boots
+                { 9, 105009 }, -- Minelayer's Padded Boots
+                { 10, 105090 }, -- Ominous Mogu Greatboots
+                { 11, 105027 }, -- Borer Drill Boots
                 -- Finger
-                { 9, 105126 }, -- Kil'ruk's Band of Ascendancy
-                { 10, 105000 }, -- Extinguished Ember of Galakras
-                { 11, 105036 }, -- Bloodclaw Band
+                { 12, 105126 }, -- Kil'ruk's Band of Ascendancy
+                { 13, 105000 }, -- Extinguished Ember of Galakras
+                { 14, 105036 }, -- Bloodclaw Band
                 -- Trinket
-                { 12, 105117 }, -- Dysmorphic Samophlange of Discontinuity
+                { 15, 105117 }, -- Dysmorphic Samophlange of Discontinuity
                 -- Weapons
                 -- 1H Axe
                 -- 1H Mace
-                { 13, 104919 }, -- Encapsulated Essence of Immerseus
+                { 16, 104919 }, -- Encapsulated Essence of Immerseus
                 -- 1H Sword
-                { 14, 105135 }, -- Kil'ruk's Furious Blade
+                { 17, 105135 }, -- Kil'ruk's Furious Blade
                 -- 2H Axe
                 -- 2H Mace
                 -- 2H Sword
@@ -1097,9 +1100,9 @@ data["MoguShanPalace"] = {
                 -- Gun
                 -- Wand
                 -- Staff
-                { 15, 104910 }, -- Trident of Corrupted Waters
+                { 18, 104910 }, -- Trident of Corrupted Waters
                 -- Off Hand
-                { 16, 104946 }, -- Purehearted Cricket Cage
+                { 19, 104946 }, -- Purehearted Cricket Cage
 
                 -------------- Regular Dungeon Loot --------------
                 { 101, 87542 },	-- Mogu'Dar, Blade of the Thousand Slaves
@@ -1762,6 +1765,7 @@ data["ScarletMonasteryMoP"] = {
                 -- 1H Mace
                 -- 1H Sword
                 -- 2H Axe
+                { 14, 105146 }, -- Xal'atoh, Desecrated Image of Gorehowl
                 -- 2H Mace
                 -- 2H Sword
                 -- Fist Weapon
@@ -1773,7 +1777,7 @@ data["ScarletMonasteryMoP"] = {
                 -- Wand
                 -- Staff
                 -- Off Hand
-                { 14, 105092 }, -- Ancient Mogu Tower Shield
+                { 15, 105092 }, -- Ancient Mogu Tower Shield
 
                 -------------- Regular Dungeon Loot --------------
                 { 101, 87551 },	-- Helios, Durand's Soul of Purity
