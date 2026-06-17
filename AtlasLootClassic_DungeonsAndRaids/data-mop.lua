@@ -1573,19 +1573,35 @@ data["ScarletHallsMoP"] = {
             },
             [CELESTIAL_DIFF] = {
                 -- Head
+                { 1, 105145 }, -- Greathelm of the Warchief
+                { 2, 104911 }, -- Hood of Blackened Tears
                 -- Neck
                 -- Shoulder
+                { 4, 105046 }, -- Shoulderguards of Foul Streams
+                { 5, 104947 }, -- Shoulders of the Roiling Inferno
+                { 6, 105154 }, -- Hopeglow Spaulders
                 -- Cloak
+                { 8, 105028 }, -- Poisonmist Nightcloak
                 -- Chest
+                { 10, 105054 }, -- Robes of the Warrior's Fall
                 -- Wrist
+                { 12, 105100 }, -- Bracers of the Pristine Purifier
+                { 13, 105019 }, -- Bracers of the Broken Fault
+                { 14, 105064 }, -- Wristguards of Ruination
                 -- Hands
+                { 16, 104920 }, -- Bolt-Burster Grips
                 -- Waist
                 -- Legs
                 -- Feet
                 -- Finger
+                { 18, 105091 }, -- Seal of the Forgotten Kings
                 -- Trinket
+                { 20, 105109 }, -- Thok's Acid-Grooved Tooth
+                { 21, 104974 }, -- Assurance of Consequence
                 -- Weapons
                 -- 1H Axe
+                { 23, 105127 }, -- Korven's Crimson Crescent
+                { 24, 105037 }, -- Haromm's Frozen Crescent
                 -- 1H Mace
                 -- 1H Sword
                 -- 2H Axe
@@ -1599,7 +1615,10 @@ data["ScarletHallsMoP"] = {
                 -- Gun
                 -- Wand
                 -- Staff
+                { 26, 105136 }, -- Kor'kron Spire of Supremacy
+                { 27, 105001 }, -- Drakebinder Greatstaff
                 -- Off Hand
+                { 29, 104983 }, -- Shield of Mockery
 
                 -------------- Regular Dungeon Loot --------------
                 { 101, 87550 },	-- Vithrak, Gaze of the Deadman
