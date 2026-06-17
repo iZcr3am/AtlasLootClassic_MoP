@@ -517,6 +517,51 @@ data["StormstoutBrewery"] = {
                 { 18, "ac6456" },
             },
             [CELESTIAL_DIFF] = {
+                -- Head
+                { 1, 104997 }, -- Flameslinger's Fiery Cowl
+                -- Neck
+                { 3, 105015 }, -- Juggernaut's Ignition Keys
+                -- Shoulder
+                { 5, 104943 }, -- Shoulderpads of Dou Dou Chong
+                { 6, 105141 }, -- Shoulderguards of Intended Power
+                -- Cloak
+                -- Chest
+                -- Wrist
+                -- Hands
+                { 8, 105105 }, -- Montak's Grips of Scorching Breath
+                -- Waist
+                { 10, 104988 }, -- Cannoneer's Multipocket Gunbelt
+                -- Legs
+                -- Feet
+                { 12, 105078 }, -- Boots of Perilous Infusion
+                { 13, 105033 }, -- Wolf-Rider Spurs
+                { 14, 104916 }, -- Treads of Unchained Hate
+                -- Finger
+                { 16, 105060 }, -- Ring of Restless Energy
+                -- Trinket
+                { 18, 104961 }, -- Fusion-Fire Core
+                { 19, 105150 }, -- Black Blood of Y'Shaarj
+                -- Weapons
+                -- 1H Axe
+                { 21, 105069 }, -- Malkorok's Skullcleaver
+                -- 1H Mace
+                -- 1H Sword
+                -- 2H Axe
+                -- 2H Mace
+                -- 2H Sword
+                -- Fist Weapon
+                -- Polearm
+                -- Dagger
+                { 23, 104952 }, -- Norushen's Shortblade
+                -- Crossbow
+                -- Bow
+                -- Gun
+                -- Wand
+                { 25, 105096 }, -- Immaculately Preserved Wand
+                -- Staff
+                -- Off Hands
+
+                -------------- Regular Dungeon Loot --------------
                 { 101, 87545 },	-- Inelava, Spirit of Inebriation
                 { 102, 81059 },	-- Fermenting Belt
                 { 103, 81068 },	-- Fizzy Spaulders
@@ -653,6 +698,52 @@ data["TempleOfTheJadeSerpent"] = {
                 { 21, "ac6671" },
             },
             [CELESTIAL_DIFF] = {
+                -- Head
+                { 1, 105088 }, -- Helm of the Night Watchman
+                -- Neck
+                -- Shoulder
+                -- Cloak
+                -- Chest
+                { 3, 105034 }, -- Breastplate of Shamanic Mirrors
+                { 4, 105106 }, -- Akolik's Acid-Soaked Robes
+                -- Wrist
+                { 6, 105079 }, -- Bracers of Averted Fatality
+                { 7, 104917 }, -- Bracers of Sordid Sleep
+                { 8, 105007 }, -- Laser Burn Bracers
+                -- Hands
+                { 10, 105115 }, -- Fusespark Gloves
+                -- Waist
+                -- Legs
+                { 12, 105142 }, -- Legplates of Unthinking Strife
+                -- Feet
+                { 14, 104926 }, -- Salt Water Sandals
+                { 15, 104998 }, -- Skydancer Boots
+                -- Finger
+                -- Trinket
+                { 16, 105124 }, -- Blackfuse's Blasting Cord
+                { 17, 105016 }, -- Juggernaut's Focusing Crystal
+                { 18, 105051 }, -- Nazgrim's Burnished Insignia
+                -- Weapons
+                -- 1H Axe
+                -- 1H Mace
+                { 20, 105043 }, -- Kardris' Scepter
+                -- 1H Sword
+                { 22, 104962 }, -- Xifeng, Longblade of the Titanic Guardian
+                -- 2H Axe
+                -- 2H Mace
+                -- 2H Sword
+                -- Fist Weapon
+                -- Polearm
+                -- Dagger
+                -- Crossbow
+                -- Bow
+                -- Gun
+                { 24, 105061 }, -- Kor'kron Hand Cannon
+                -- Wand
+                -- Staff
+                -- Off Hands
+
+                -------------- Regular Dungeon Loot --------------
                 { 101, 87544 },	-- Je'lyu, Spirit of the Serpent
                 { 102, 81129 },	-- Cloak of Failing Will
                 { 103, 81132 },	-- Paralyzing Gloves
@@ -795,6 +886,36 @@ data["ShadoPanMonastery"] = {
                 { 19, "ac6471" },
             },
             [CELESTIAL_DIFF] = {
+                -- Head
+                -- Neck
+                -- Shoulder
+                -- Cloak
+                -- Chest
+                -- Wrist
+                -- Hands
+                -- Waist
+                -- Legs
+                -- Feet
+                -- Finger
+                -- Trinket
+                -- Weapons
+                -- 1H Axe
+                -- 1H Mace
+                -- 1H Sword
+                -- 2H Axe
+                -- 2H Mace
+                -- 2H Sword
+                -- Fist Weapon
+                -- Polearm
+                -- Dagger
+                -- Crossbow
+                -- Bow
+                -- Gun
+                -- Wand
+                -- Staff
+                -- Off Hands
+
+                -------------- Regular Dungeon Loot --------------
                 { 101, 87543 },	-- Ka'eng, Breath of the Shadow
                 { 102, 81188 },	-- Robes of Fevered Dreams
                 { 103, 81093 },	-- Darkbinder Leggings
@@ -914,6 +1035,36 @@ data["MoguShanPalace"] = {
                 { 19, "ac6736" },
             },
             [CELESTIAL_DIFF] = {
+                -- Head
+                -- Neck
+                -- Shoulder
+                -- Cloak
+                -- Chest
+                -- Wrist
+                -- Hands
+                -- Waist
+                -- Legs
+                -- Feet
+                -- Finger
+                -- Trinket
+                -- Weapons
+                -- 1H Axe
+                -- 1H Mace
+                -- 1H Sword
+                -- 2H Axe
+                -- 2H Mace
+                -- 2H Sword
+                -- Fist Weapon
+                -- Polearm
+                -- Dagger
+                -- Crossbow
+                -- Bow
+                -- Gun
+                -- Wand
+                -- Staff
+                -- Off Hands
+
+                -------------- Regular Dungeon Loot --------------
                 { 101, 87542 },	-- Mogu'Dar, Blade of the Thousand Slaves
                 { 102, 81257 },	-- Regal Silk Shoulderpads
                 { 103, 81255 },	-- Soulbinder Treads
@@ -1049,6 +1200,36 @@ data["GateoftheSettingSun"] = {
                 { 19, "ac6945" },
             },
             [CELESTIAL_DIFF] = {
+                -- Head
+                -- Neck
+                -- Shoulder
+                -- Cloak
+                -- Chest
+                -- Wrist
+                -- Hands
+                -- Waist
+                -- Legs
+                -- Feet
+                -- Finger
+                -- Trinket
+                -- Weapons
+                -- 1H Axe
+                -- 1H Mace
+                -- 1H Sword
+                -- 2H Axe
+                -- 2H Mace
+                -- 2H Sword
+                -- Fist Weapon
+                -- Polearm
+                -- Dagger
+                -- Crossbow
+                -- Bow
+                -- Gun
+                -- Wand
+                -- Staff
+                -- Off Hands
+
+                -------------- Regular Dungeon Loot --------------
                 { 101, 87546 },	-- Klatith, Fangs of the Swarm
                 { 102, 81234 },	-- Drape of the Screeching Swarm
                 { 103, 81235 },	-- Shoulders of Engulfing Winds
@@ -1196,6 +1377,36 @@ data["SiegeofNiuzaoTemple"] = {
                 { 19, "ac6822" },
             },
             [CELESTIAL_DIFF] = {
+                -- Head
+                -- Neck
+                -- Shoulder
+                -- Cloak
+                -- Chest
+                -- Wrist
+                -- Hands
+                -- Waist
+                -- Legs
+                -- Feet
+                -- Finger
+                -- Trinket
+                -- Weapons
+                -- 1H Axe
+                -- 1H Mace
+                -- 1H Sword
+                -- 2H Axe
+                -- 2H Mace
+                -- 2H Sword
+                -- Fist Weapon
+                -- Polearm
+                -- Dagger
+                -- Crossbow
+                -- Bow
+                -- Gun
+                -- Wand
+                -- Staff
+                -- Off Hands
+
+                -------------- Regular Dungeon Loot --------------
                 { 101, 87547 }, -- Tolakesh, Horn of the Black Ox
                 { 102, 81289 },	-- Breezeswept Hood
                 { 103, 81291 },	-- Whisperwind Spaulders
@@ -1296,6 +1507,36 @@ data["ScarletHallsMoP"] = {
                 { 18, "ac6760" },
             },
             [CELESTIAL_DIFF] = {
+                -- Head
+                -- Neck
+                -- Shoulder
+                -- Cloak
+                -- Chest
+                -- Wrist
+                -- Hands
+                -- Waist
+                -- Legs
+                -- Feet
+                -- Finger
+                -- Trinket
+                -- Weapons
+                -- 1H Axe
+                -- 1H Mace
+                -- 1H Sword
+                -- 2H Axe
+                -- 2H Mace
+                -- 2H Sword
+                -- Fist Weapon
+                -- Polearm
+                -- Dagger
+                -- Crossbow
+                -- Bow
+                -- Gun
+                -- Wand
+                -- Staff
+                -- Off Hands
+
+                -------------- Regular Dungeon Loot --------------
                 { 101, 87550 },	-- Vithrak, Gaze of the Deadman
                 { 102, 82817 },	-- Robes of Koegler
                 { 103, 82818 },	-- Vellum-Ripper Gloves
@@ -1395,6 +1636,36 @@ data["ScarletMonasteryMoP"] = {
                 { 19, "ac6929" },
             },
             [CELESTIAL_DIFF] = {
+                -- Head
+                -- Neck
+                -- Shoulder
+                -- Cloak
+                -- Chest
+                -- Wrist
+                -- Hands
+                -- Waist
+                -- Legs
+                -- Feet
+                -- Finger
+                -- Trinket
+                -- Weapons
+                -- 1H Axe
+                -- 1H Mace
+                -- 1H Sword
+                -- 2H Axe
+                -- 2H Mace
+                -- 2H Sword
+                -- Fist Weapon
+                -- Polearm
+                -- Dagger
+                -- Crossbow
+                -- Bow
+                -- Gun
+                -- Wand
+                -- Staff
+                -- Off Hands
+
+                -------------- Regular Dungeon Loot --------------
                 { 101, 87551 },	-- Helios, Durand's Soul of Purity
                 { 102, 81692 },	-- Whitemane's Embroidered Chapeau
                 { 103, 81689 },	-- Leggings of Hallowed Fire
@@ -1539,6 +1810,36 @@ data["ScholomanceMoP"] = {
                 { 19, "ac6821" },
             },
             [CELESTIAL_DIFF] = {
+                -- Head
+                -- Neck
+                -- Shoulder
+                -- Cloak
+                -- Chest
+                -- Wrist
+                -- Hands
+                -- Waist
+                -- Legs
+                -- Feet
+                -- Finger
+                -- Trinket
+                -- Weapons
+                -- 1H Axe
+                -- 1H Mace
+                -- 1H Sword
+                -- 2H Axe
+                -- 2H Mace
+                -- 2H Sword
+                -- Fist Weapon
+                -- Polearm
+                -- Dagger
+                -- Crossbow
+                -- Bow
+                -- Gun
+                -- Wand
+                -- Staff
+                -- Off Hands
+
+                -------------- Regular Dungeon Loot --------------
                 { 101, 82859 }, -- Headmaster's Will
                 { 102, 82861 }, -- Incineration Belt
                 { 103, 82858 }, -- Tombstone Gauntlets
