@@ -409,14 +409,16 @@ data["AugustStoneClusterVendorMoP"] = {
             { 24, 104955 }, -- Gloves of the Golden Protector
             { 25, 104987 }, -- Korgra's Venom-Soaked Gauntlets
             { 26, 105097 }, -- Klaxxi Grips of Rejuvenation
+            { 27, 105818 }, -- Crimson Gauntlets of Death
+            { 28, 105817 }, -- Siid's Silent Stranglers
             -- Waist
-            { 28, 105002 }, -- Dragonmaw Emergency Strap
-            { 29, 105030 }, -- Damron's Belt of Darkness
-            { 30, 105137 }, -- Cord of Black Dreams
-            { 31, 105153 }, -- Seal of Karmic Return
+            { 101, 105002 }, -- Dragonmaw Emergency Strap
+            { 102, 105030 }, -- Damron's Belt of Darkness
+            { 103, 105137 }, -- Cord of Black Dreams
+            { 104, 105153 }, -- Seal of Karmic Return
             -- Legs
-            { 101, 105031 }, -- Riou's Vigilant Leggings
-            { 102, 105098 }, -- Shado-Pan Reliquary Kit
+            { 106, 105031 }, -- Riou's Vigilant Leggings
+            { 107, 105098 }, -- Shado-Pan Reliquary Kit
             -- Feet
             { 116, 104933 }, -- Stonetoe's Tormented Treads
             { 117, 104969 }, -- Boots of Broken Reliance
@@ -456,6 +458,8 @@ data["AugustStoneClusterVendorMoP"] = {
             { 24, 104934 }, -- Grips of Unending Anguish
             { 25, 105003 }, -- Grips of Tidal Force
             { 26, 105010 }, -- Precision Cutters
+            { 27, 105819 }, -- Keengrip Arrowpullers
+            { 28, 105820 }, -- Marco's Crackling Gloves
             -- Waist
             { 101, 104988 }, -- Cannoneer's Multipocket Gunbelt
             { 102, 105045 }, -- Belt of the Iron Prison
@@ -498,52 +502,52 @@ data["AugustStoneClusterVendorMoP"] = {
             { 20, 105110 }, -- Icy Blood Chestplate
             { 21, 105156 }, -- Chestplate of Fallen Passion
             -- Wrist
-            { 23, 104917 }, -- Bracers of Sordid Sleep
-            { 24, 104913 }, -- Bubble-Burst Bracers
-            { 25, 104958 }, -- Bracers of Blind Hatred
-            { 26, 104973 }, -- Wristplates of Broken Doubt
-            { 27, 104991 }, -- Arcsmasher Bracers
-            { 28, 105004 }, -- Smoldering Drakescale Bracers
-            { 29, 105012 }, -- Wall-Borer Bracers
-            { 30, 105047 }, -- Shackles of Stinking Slime
-            { 31, 105066 }, -- Blood Rage Bracers
+            { 101, 104917 }, -- Bracers of Sordid Sleep
+            { 102, 104913 }, -- Bubble-Burst Bracers
+            { 103, 104958 }, -- Bracers of Blind Hatred
+            { 104, 104973 }, -- Wristplates of Broken Doubt
+            { 105, 104991 }, -- Arcsmasher Bracers
+            { 106, 105004 }, -- Smoldering Drakescale Bracers
+            { 107, 105012 }, -- Wall-Borer Bracers
+            { 108, 105047 }, -- Shackles of Stinking Slime
+            { 109, 105066 }, -- Blood Rage Bracers
             -- Hands
-            { 101, 104915 }, -- Corruption-Rotted Gauntlets
-            { 102, 104950 }, -- Grips of the Fallen Council
-            { 103, 104937 }, -- Shockstriker Gauntlets
-            { 104, 105013 }, -- Tar-Coated Gauntlets
-            { 105, 105121 }, -- Calixian Bladebreakers
-            { 106, 105133 }, -- Gauntlets of Insane Calculations
-            { 107, 105823 }, -- Gauntlets of Discarded Time
-            { 108, 105821 }, -- Romy's Reliable Grips
-            { 109, 105822 }, -- Zoid's Molten Gauntlets
+            { 116, 104915 }, -- Corruption-Rotted Gauntlets
+            { 117, 104950 }, -- Grips of the Fallen Council
+            { 118, 104937 }, -- Shockstriker Gauntlets
+            { 119, 105013 }, -- Tar-Coated Gauntlets
+            { 120, 105121 }, -- Calixian Bladebreakers
+            { 121, 105133 }, -- Gauntlets of Insane Calculations
+            { 122, 105823 }, -- Gauntlets of Discarded Time
+            { 123, 105821 }, -- Romy's Reliable Grips
+            { 124, 105822 }, -- Zoid's Molten Gauntlets
             -- Waist
-            { 116, 104929 }, -- Greatbelt of Living Waters
-            { 117, 104935 }, -- Poisonbinder Girth
-            { 118, 105011 }, -- Demolisher's Reinforced Belt
-            { 119, 105035 }, -- Ashen Wall Girdle
-            { 120, 105101 }, -- Plate Belt of the War-Healer
-            { 121, 105089 }, -- Untarnishable Greatbelt
+            { 201, 104929 }, -- Greatbelt of Living Waters
+            { 202, 104935 }, -- Poisonbinder Girth
+            { 203, 105011 }, -- Demolisher's Reinforced Belt
+            { 204, 105035 }, -- Ashen Wall Girdle
+            { 205, 105101 }, -- Plate Belt of the War-Healer
+            { 206, 105089 }, -- Untarnishable Greatbelt
             -- Legs
-            { 123, 105005 }, -- Windfire Legplates
-            { 124, 105067 }, -- Legplates of Willful Doom
-            { 125, 105142 }, -- Legplates of Unthinking Strife
+            { 208, 105005 }, -- Windfire Legplates
+            { 209, 105067 }, -- Legplates of Willful Doom
+            { 210, 105142 }, -- Legplates of Unthinking Strife
             -- Feet
-            { 201, 104916 }, -- Treads of Unchained Hate
-            { 202, 104930 }, -- Waterwalker Greatboots
-            { 203, 104980 }, -- Greaves of Sublime Superiority
-            { 204, 105027 }, -- Borer Drill Boots
-            { 205, 105033 }, -- Wolf-Rider Spurs
-            { 206, 105065 }, -- Malkorok's Giant Stompers
-            { 207, 105102 }, -- Mogu Mindbender's Greaves
-            { 208, 105090 }, -- Ominous Mogu Greatboots
+            { 216, 104916 }, -- Treads of Unchained Hate
+            { 217, 104930 }, -- Waterwalker Greatboots
+            { 218, 104980 }, -- Greaves of Sublime Superiority
+            { 219, 105027 }, -- Borer Drill Boots
+            { 220, 105033 }, -- Wolf-Rider Spurs
+            { 221, 105065 }, -- Malkorok's Giant Stompers
+            { 222, 105102 }, -- Mogu Mindbender's Greaves
+            { 223, 105090 }, -- Ominous Mogu Greatboots
         },
     },
     {
         name = ALIL["Cloak"],
         [CELESTIAL_DIFF] = {
             { 1, 105421 }, -- Cloak of Misguided Power
-            { 2, 105437 }, -- Gleamwrap Greatcloak
+            { 2, 105437 }, -- Gloomwrap Greatcloak
             { 3, 105458 }, -- Drape of the Despairing Pit
             { 4, 105844 }, -- Brave Niunai's Cloak
             { 5, 105843 }, -- Drape of the Omega
@@ -551,7 +555,8 @@ data["AugustStoneClusterVendorMoP"] = {
             { 7, 105853 }, -- Turtleshell Greatcloak
             { 8, 105028 }, -- Poisonmist Nightcloak
             { 9, 105573 }, -- Black-Blooded Drape
-            { 10, 105437 }, -- Gloomwrap Greatcloak
+            { 10, 105843 }, -- Drape of the Omega
+            { 11, 105840 }, -- Cape of the Alpha
         },
     },
     {
