@@ -528,31 +528,35 @@ data["StormstoutBrewery"] = {
                 -- Cloak
                 -- Chest
                 { 6, 105087 }, -- Ancient Archer's Chestguard
+                { 7, 105132 }, -- Chestguard of Toxic Injections
                 -- Wrist
-                { 7, 105024 }, -- Castlebreaker Bracers
+                { 8, 105024 }, -- Castlebreaker Bracers
                 -- Hands
-                { 8, 105105 }, -- Montak's Grips of Scorching Breath
-                { 9, 104970 }, -- Confident Grips
+                { 9, 105105 }, -- Montak's Grips of Scorching Breath
+                { 10, 104970 }, -- Confident Grips
+                { 11, 104934 }, -- Grips of Unending Anguish
                 -- Waist
-                { 10, 104988 }, -- Cannoneer's Multipocket Gunbelt
+                { 12, 104988 }, -- Cannoneer's Multipocket Gunbelt
                 -- Legs
                 -- Feet
-                { 11, 105078 }, -- Boots of Perilous Infusion
-                { 12, 105033 }, -- Wolf-Rider Spurs
-                { 13, 104916 }, -- Treads of Unchained Hate
+                { 16, 105050 }, -- Sandals of Two Little Bees
+                { 17, 105078 }, -- Boots of Perilous Infusion
+                { 18, 105033 }, -- Wolf-Rider Spurs
+                { 19, 104916 }, -- Treads of Unchained Hate
                 -- Finger
-                { 14, 105060 }, -- Ring of Restless Energy
+                { 20, 105060 }, -- Ring of Restless Energy
+                { 21, 104925 }, -- Seal of Eternal Sorrow
                 -- Trinket
-                { 16, 104961 }, -- Fusion-Fire Core
-                { 17, 105150 }, -- Black Blood of Y'Shaarj
-                { 18, 105114 }, -- Ticking Ebon Detonator
-                { 19, 105042 }, -- Kardris' Toxic Totem
+                { 22, 104961 }, -- Fusion-Fire Core
+                { 23, 105150 }, -- Black Blood of Y'Shaarj
+                { 24, 105114 }, -- Ticking Ebon Detonator
+                { 25, 105042 }, -- Kardris' Toxic Totem
                 -- Weapons
                 -- 1H Axe
-                { 20, 105069 }, -- Malkorok's Skullcleaver
+                { 26, 105069 }, -- Malkorok's Skullcleaver
                 -- 1H Mace
-                { 21, 105006 }, -- Seismic Bore
-                { 22, 105123 }, -- Siegecrafter's Forge Hammer
+                { 27, 105006 }, -- Seismic Bore
+                { 28, 105123 }, -- Siegecrafter's Forge Hammer
                 -- 1H Sword
                 -- 2H Axe
                 -- 2H Mace
@@ -560,12 +564,12 @@ data["StormstoutBrewery"] = {
                 -- Fist Weapon
                 -- Polearm
                 -- Dagger
-                { 23, 104952 }, -- Norushen's Shortblade
+                { 29, 104952 }, -- Norushen's Shortblade
                 -- Crossbow
                 -- Bow
                 -- Gun
                 -- Wand
-                { 24, 105096 }, -- Immaculately Preserved Wand
+                { 30, 105096 }, -- Immaculately Preserved Wand
                 -- Staff
                 -- Off Hand
 
@@ -737,12 +741,14 @@ data["TempleOfTheJadeSerpent"] = {
                 -- Trinket
                 { 21, 105016 }, -- Juggernaut's Focusing Crystal
                 { 22, 105051 }, -- Nazgrim's Burnished Insignia
+                { 23, 105070 }, -- Vial of Living Corruption
                 -- Weapons
                 -- 1H Axe
                 -- 1H Mace
-                { 23, 105043 }, -- Kardris' Scepter
+                { 24, 105043 }, -- Kardris' Scepter
+                { 25, 105151 }, -- Horned Mace of the Old Ones
                 -- 1H Sword
-                { 24, 104962 }, -- Xifeng, Longblade of the Titanic Guardian
+                { 26, 104962 }, -- Xifeng, Longblade of the Titanic Guardian
                 -- 2H Axe
                 -- 2H Mace
                 -- 2H Sword
@@ -752,7 +758,7 @@ data["TempleOfTheJadeSerpent"] = {
                 -- Crossbow
                 -- Bow
                 -- Gun
-                { 25, 105061 }, -- Kor'kron Hand Cannon
+                { 27, 105061 }, -- Kor'kron Hand Cannon
                 -- Wand
                 -- Staff
                 -- Off Hand
@@ -909,23 +915,26 @@ data["ShadoPanMonastery"] = {
                 -- Cloak
                 { 4, 105421 }, -- Cloak of Misguided Power
                 -- Chest
-                { 5, 105139 }, -- Chestguard of Relentless Tyranny
+                { 5, 105094 }, -- Mantid Vizier's Robes
+                { 6, 105139 }, -- Chestguard of Relentless Tyranny
                 -- Wrist
-                { 6, 105085 }, -- Mantid Carapace Augments
-                { 7, 105004 }, -- Smoldering Drakescale Bracers
+                { 7, 105085 }, -- Mantid Carapace Augments
+                { 8, 105004 }, -- Smoldering Drakescale Bracers
                 -- Hands
-                { 8, 104950 }, -- Grips of the Fallen Council
-                { 9, 105013 }, -- Tar-Coated Gauntlets
+                { 9, 104950 }, -- Grips of the Fallen Council
+                { 10, 105013 }, -- Tar-Coated Gauntlets
                 -- Waist
                 -- Legs
-                { 10, 105067 }, -- Legplates of Willful Doom
+                { 11, 105031 }, -- Riou's Vigilant Leggings
+                { 12, 105067 }, -- Legplates of Willful Doom
                 -- Feet
-                { 11, 104941 }, -- Sha-Seared Sandals
-                { 12, 104995 }, -- Bone-Inlaid Sandals
+                { 13, 104941 }, -- Sha-Seared Sandals
+                { 14, 104995 }, -- Bone-Inlaid Sandals
+                { 15, 104986 }, -- Unrepentant Heels
                 -- Finger
-                { 13, 105076 }, -- Seal of Sullen Fury
-                { 14, 105130 }, -- Iyyokuk's Hereditary Seal
-                { 15, 105022 }, -- Laser-Slice Signet
+                { 16, 105076 }, -- Seal of Sullen Fury
+                { 17, 105130 }, -- Iyyokuk's Hereditary Seal
+                { 18, 105022 }, -- Laser-Slice Signet
                 -- Trinket
                 -- Weapons
                 -- 1H Axe
@@ -933,22 +942,23 @@ data["ShadoPanMonastery"] = {
                 -- 1H Sword
                 -- 2H Axe
                 -- 2H Mace
-                { 16, 105057 }, -- Gar'tok, Strength of the Faithful
+                { 19, 105057 }, -- Gar'tok, Strength of the Faithful
                 -- 2H Sword
                 -- Fist Weapon
-                { 17, 104932 }, -- Softfoot's Last Resort
+                { 20, 104932 }, -- Softfoot's Last Resort
                 -- Polearm
-                { 18, 105112 }, -- Britomart's Jagged Pike
+                { 21, 105112 }, -- Britomart's Jagged Pike
                 -- Dagger
-                { 19, 105103 }, -- Hvitserk's Formidable Shanker
-                { 20, 105049 }, -- Nazgrim's Gutripper
+                { 22, 105103 }, -- Hvitserk's Formidable Shanker
+                { 23, 105049 }, -- Nazgrim's Gutripper
                 -- Crossbow
                 -- Bow
                 -- Gun
                 -- Wand
                 -- Staff
-                { 21, 104977 }, -- Gaze of Arrogance
+                { 24, 104977 }, -- Gaze of Arrogance
                 -- Off Hand
+                { 25, 104968 }, -- Norushen's Enigmatic Barrier
 
                 -------------- Regular Dungeon Loot --------------
                 { 101, 87543 },	-- Ka'eng, Breath of the Shadow
@@ -1086,26 +1096,28 @@ data["MoguShanPalace"] = {
                 -- Hands
                 { 8, 104964 }, -- Blight Hurlers
                 { 9, 104928 }, -- Soul-Soaked Gloves
+                { 10, 104937 }, -- Shockstriker Gauntlets
                 -- Waist
-                { 10, 105099 }, -- Chitin-Link Chain Belt
-                { 11, 105045 }, -- Belt of the Iron Prison
+                { 11, 105099 }, -- Chitin-Link Chain Belt
+                { 12, 105045 }, -- Belt of the Iron Prison
                 -- Legs
+                { 13, 105018 }, -- Leggings of Furious Flame
                 -- Feet
-                { 12, 105009 }, -- Minelayer's Padded Boots
-                { 13, 105090 }, -- Ominous Mogu Greatboots
-                { 14, 105027 }, -- Borer Drill Boots
+                { 16, 105009 }, -- Minelayer's Padded Boots
+                { 17, 105090 }, -- Ominous Mogu Greatboots
+                { 18, 105027 }, -- Borer Drill Boots
                 -- Finger
-                { 16, 105126 }, -- Kil'ruk's Band of Ascendancy
-                { 17, 105000 }, -- Extinguished Ember of Galakras
-                { 18, 105036 }, -- Bloodclaw Band
+                { 19, 105126 }, -- Kil'ruk's Band of Ascendancy
+                { 20, 105000 }, -- Extinguished Ember of Galakras
+                { 21, 105036 }, -- Bloodclaw Band
                 -- Trinket
-                { 19, 105117 }, -- Dysmorphic Samophlange of Discontinuity
+                { 22, 105117 }, -- Dysmorphic Samophlange of Discontinuity
                 -- Weapons
                 -- 1H Axe
                 -- 1H Mace
-                { 20, 104919 }, -- Encapsulated Essence of Immerseus
+                { 23, 104919 }, -- Encapsulated Essence of Immerseus
                 -- 1H Sword
-                { 21, 105135 }, -- Kil'ruk's Furious Blade
+                { 24, 105135 }, -- Kil'ruk's Furious Blade
                 -- 2H Axe
                 -- 2H Mace
                 -- 2H Sword
@@ -1117,9 +1129,9 @@ data["MoguShanPalace"] = {
                 -- Gun
                 -- Wand
                 -- Staff
-                { 22, 104910 }, -- Trident of Corrupted Waters
+                { 25, 104910 }, -- Trident of Corrupted Waters
                 -- Off Hand
-                { 23, 104946 }, -- Purehearted Cricket Cage
+                { 26, 104946 }, -- Purehearted Cricket Cage
 
                 -------------- Regular Dungeon Loot --------------
                 { 101, 87542 },	-- Mogu'Dar, Blade of the Thousand Slaves
@@ -1270,44 +1282,47 @@ data["GateoftheSettingSun"] = {
                 { 8, 105143 }, -- Spaulders of the Fallen Warchief
                 -- Cloak
                 -- Chest
-                { 9, 105080 }, -- Ebon Blood Chestguard
+                { 9, 104954 }, -- Robes of the Blackened Watcher
+                { 10, 105080 }, -- Ebon Blood Chestguard
                 -- Wrist
-                { 10, 104927 }, -- Bracers of Purified Spirit
+                { 11, 104927 }, -- Bracers of Purified Spirit
                 -- Hands
                 -- Waist
-                { 11, 105017 }, -- Belt of Ominous Trembles
-                { 12, 105035 }, -- Ashen Wall Girdle
+                { 12, 105017 }, -- Belt of Ominous Trembles
+                { 13, 105071 }, -- Miasmic Skullbelt
+                { 14, 105035 }, -- Ashen Wall Girdle
+                { 15, 105089 }, -- Untarnishable Greatbelt
                 -- Legs
-                { 13, 105098 }, -- Shado-Pan Reliquary Kit
-                { 14, 104972 }, -- Shadow-Binder's Kilt
+                { 16, 105098 }, -- Shado-Pan Reliquary Kit
+                { 17, 104972 }, -- Shadow-Binder's Kilt
                 -- Feet
                 -- Finger
-                { 16, 104945 }, -- Petrified Pennyroyal Ring
+                { 18, 104945 }, -- Petrified Pennyroyal Ring
                 -- Trinket
-                { 17, 105134 }, -- Skeer's Bloodsoaked Talisman
+                { 19, 105134 }, -- Skeer's Bloodsoaked Talisman
                 -- Weapons
                 -- 1H Axe
                 -- 1H Mace
                 -- 1H Sword
-                { 18, 105052 }, -- Arcweaver Spell Sword
+                { 20, 105052 }, -- Arcweaver Spell Sword
                 -- 2H Axe
                 -- 2H Mace
                 -- 2H Sword
-                { 19, 104981 }, -- Greatsword of Pride's Fall
+                { 21, 104981 }, -- Greatsword of Pride's Fall
                 -- Fist Weapon
                 -- Polearm
-                { 20, 105062 }, -- Halberd of Inner Shadows
+                { 22, 105062 }, -- Halberd of Inner Shadows
                 -- Dagger
                 -- Crossbow
                 -- Bow
-                { 21, 105125 }, -- Hisek's Reserver Longbow
+                { 23, 105125 }, -- Hisek's Reserver Longbow
                 -- Gun
                 -- Wand
                 -- Staff
-                { 22, 105116 }, -- Lever of the Megantholithic Apparatus
+                { 24, 105116 }, -- Lever of the Megantholithic Apparatus
                 -- Off Hand
-                { 23, 105107 }, -- Festering Primordial Globule
-                { 24, 105152 }, -- Revelations of Y'Shaarj
+                { 25, 105107 }, -- Festering Primordial Globule
+                { 26, 105152 }, -- Revelations of Y'Shaarj
 
                 -------------- Regular Dungeon Loot --------------
                 { 101, 87546 },	-- Klatith, Fangs of the Swarm
@@ -1623,15 +1638,16 @@ data["ScarletHallsMoP"] = {
                 -- Cloak
                 { 7, 105028 }, -- Poisonmist Nightcloak
                 -- Chest
-                { 8, 105054 }, -- Robes of the Warrior's Fall
+                { 8, 105073 }, -- Robes of Riven Dreams
+                { 9, 105054 }, -- Robes of the Warrior's Fall
                 -- Wrist
-                { 9, 105019 }, -- Bracers of the Broken Fault
-                { 10, 105100 }, -- Bracers of the Pristine Purifier
-                { 11, 105064 }, -- Wristguards of Ruination
-                { 12, 105118 }, -- Bomber's Blackened Wristwatch
+                { 10, 105019 }, -- Bracers of the Broken Fault
+                { 11, 105118 }, -- Bomber's Blackened Wristwatch
+                { 12, 105100 }, -- Bracers of the Pristine Purifier
+                { 13, 105064 }, -- Wristguards of Ruination
                 -- Hands
-                { 13, 104920 }, -- Bolt-Burster Grips
-                { 14, 105010 }, -- Precision Cutters
+                { 14, 104920 }, -- Bolt-Burster Grips
+                { 15, 105010 }, -- Precision Cutters
                 -- Waist
                 { 16, 104965 }, -- Sash of the Last Guardian
                 { 17, 104929 }, -- Greatbelt of Living Waters
@@ -1643,10 +1659,11 @@ data["ScarletHallsMoP"] = {
                 -- Trinket
                 { 20, 105109 }, -- Thok's Acid-Grooved Tooth
                 { 21, 104974 }, -- Assurance of Consequence
+                { 22, 105082 }, -- Sigil of Rampage
                 -- Weapons
                 -- 1H Axe
-                { 22, 105127 }, -- Korven's Crimson Crescent
-                { 23, 105037 }, -- Haromm's Frozen Crescent
+                { 23, 105127 }, -- Korven's Crimson Crescent
+                { 24, 105037 }, -- Haromm's Frozen Crescent
                 -- 1H Mace
                 -- 1H Sword
                 -- 2H Axe
@@ -1660,10 +1677,10 @@ data["ScarletHallsMoP"] = {
                 -- Gun
                 -- Wand
                 -- Staff
-                { 24, 105136 }, -- Kor'kron Spire of Supremacy
-                { 25, 105001 }, -- Drakebinder Greatstaff
+                { 25, 105136 }, -- Kor'kron Spire of Supremacy
+                { 26, 105001 }, -- Drakebinder Greatstaff
                 -- Off Hand
-                { 26, 104983 }, -- Shield of Mockery
+                { 27, 104983 }, -- Shield of Mockery
 
                 -------------- Regular Dungeon Loot --------------
                 { 101, 87550 },	-- Vithrak, Gaze of the Deadman
@@ -1774,32 +1791,34 @@ data["ScarletMonasteryMoP"] = {
                 -- Cloak
                 { 4, 104939 }, -- Gloomwrap Greatcloak
                 -- Chest
+                { 5, 105110 }, -- Icy Blood Chestplate
                 -- Wrist
-                { 5, 105128 }, -- Bracers of Sonic Projection
+                { 6, 105128 }, -- Bracers of Sonic Projection
                 -- Hands
                 -- Waist
-                { 6, 105137 }, -- Cord of Black Dreams
-                { 7, 105002 }, -- Dragonmaw Emergency Strap
-                { 8, 105101 }, -- Plate Belt of the War-Healer
+                { 7, 105137 }, -- Cord of Black Dreams
+                { 8, 105002 }, -- Dragonmaw Emergency Strap
+                { 9, 105101 }, -- Plate Belt of the War-Healer
+                { 10, 105011 }, -- Demolisher's Reinforced Belt
                 -- Legs
-                { 9, 104912 }, -- Puddle Punishers
+                { 11, 104912 }, -- Puddle Punishers
                 -- Feet
-                { 10, 104930 }, -- Waterwalker Greatboots
-                { 11, 105065 }, -- Malkorok's Giant Stompers
                 { 12, 104948 }, -- Sabatons of Defilement
                 { 13, 105055 }, -- Ravager's Pathwalkers
+                { 14, 104930 }, -- Waterwalker Greatboots
+                { 15, 105065 }, -- Malkorok's Giant Stompers
                 -- Finger
-                { 14, 105038 }, -- Ring of the Iron Tomb
+                { 16, 105038 }, -- Ring of the Iron Tomb
                 -- Trinket
-                { 16, 105074 }, -- Frenzied Crystal of Rage
-                { 17, 105029 }, -- Haromm's Talisman
-                { 18, 104993 }, -- Evil Eye of Galakras
+                { 17, 105074 }, -- Frenzied Crystal of Rage
+                { 18, 105029 }, -- Haromm's Talisman
+                { 19, 104993 }, -- Evil Eye of Galakras
                 -- Weapons
                 -- 1H Axe
                 -- 1H Mace
                 -- 1H Sword
                 -- 2H Axe
-                { 19, 105146 }, -- Xal'atoh, Desecrated Image of Gorehowl
+                { 20, 105146 }, -- Xal'atoh, Desecrated Image of Gorehowl
                 -- 2H Mace
                 -- 2H Sword
                 -- Fist Weapon
@@ -1811,7 +1830,7 @@ data["ScarletMonasteryMoP"] = {
                 -- Wand
                 -- Staff
                 -- Off Hand
-                { 20, 105092 }, -- Ancient Mogu Tower Shield
+                { 21, 105092 }, -- Ancient Mogu Tower Shield
 
                 -------------- Regular Dungeon Loot --------------
                 { 101, 87551 },	-- Helios, Durand's Soul of Purity
@@ -1962,33 +1981,36 @@ data["ScholomanceMoP"] = {
                 { 1, 105138 }, -- Kor'kron Elite Skullmask
                 { 2, 105056 }, -- Crown of Tragic Truth
                 -- Neck
+                { 3, 104967 }, -- Untainted Guardian's Chain
                 -- Shoulder
-                { 3, 104949 }, -- Shoulderguards of Dark Meditations
-                { 4, 105048 }, -- Shoulderplates of Gushing Geysers
+                { 4, 104949 }, -- Shoulderguards of Dark Meditations
+                { 5, 105048 }, -- Shoulderplates of Gushing Geysers
                 -- Cloak
-                { 5, 105075 }, -- Black-Blooded Drape
+                { 6, 105075 }, -- Black-Blooded Drape
                 -- Chest
-                { 6, 105021 }, -- Shock Pulse Robes
+                { 7, 105021 }, -- Shock Pulse Robes
+                { 8, 105156 }, -- Chestplate of Fallen Passion
                 -- Wrist
-                { 7, 105012 }, -- Wall-Borer Bracers
-                { 8, 104913 }, -- Bubble-Burst Bracers
-                { 9, 105066 }, -- Blood Rage Bracers
+                { 9, 105012 }, -- Wall-Borer Bracers
+                { 10, 104913 }, -- Bubble-Burst Bracers
+                { 11, 105066 }, -- Blood Rage Bracers
+                { 12, 104958 }, -- Bracers of Blind Hatred
                 -- Hands
-                { 10, 105003 }, -- Grips of Tidal Force
+                { 13, 105003 }, -- Grips of Tidal Force
                 -- Waist
-                { 11, 105030 }, -- Damron's Belt of Darkness
+                { 14, 105030 }, -- Damron's Belt of Darkness
                 -- Legs
                 -- Feet
-                { 12, 105084 }, -- Pandaren Roofsprinters
-                { 13, 105102 }, -- Mogu Mindbender's Greaves
+                { 16, 105084 }, -- Pandaren Roofsprinters
+                { 17, 105102 }, -- Mogu Mindbender's Greaves
                 -- Finger
-                { 14, 104985 }, -- Swift Serpent Signet
-                { 15, 104994 }, -- Galakrond Control Band
+                { 18, 104985 }, -- Swift Serpent Signet
+                { 19, 104994 }, -- Galakrond Control Band
                 -- Trinket
-                { 16, 104940 }, -- Rook's Unlucky Talisman
-                { 17, 105147 }, -- Curse of Hubris
-                { 18, 104976 }, -- Prismatic Prison of Pride
-                { 19, 105111 }, -- Thok's Tail Tip
+                { 20, 104940 }, -- Rook's Unlucky Talisman
+                { 21, 105147 }, -- Curse of Hubris
+                { 22, 104976 }, -- Prismatic Prison of Pride
+                { 23, 105111 }, -- Thok's Tail Tip
                 -- Weapons
                 -- 1H Axe
                 -- 1H Mace
@@ -1999,7 +2021,7 @@ data["ScholomanceMoP"] = {
                 -- Fist Weapon
                 -- Polearm
                 -- Dagger
-                { 20, 105129 }, -- Rik'kal's Bloody Scalpel
+                { 24, 105129 }, -- Rik'kal's Bloody Scalpel
                 -- Crossbow
                 -- Bow
                 -- Gun
