@@ -1797,26 +1797,27 @@ data["ScarletMonasteryMoP"] = {
                 -- Head
                 { 1, 105155 }, -- Cowl of Smoking Dreams
                 -- Neck
+                { 2, 104975 }, -- Necklace of Fading Light
                 -- Shoulder
-                { 2, 104966 }, -- Rime-Rift Shoulders
-                { 3, 104957 }, -- Quarantine Shoulderguards
-                { 4, 104921 }, -- Ichor-Dripping Shoulderpads
+                { 3, 104966 }, -- Rime-Rift Shoulders
+                { 4, 104957 }, -- Quarantine Shoulderguards
+                { 5, 104921 }, -- Ichor-Dripping Shoulderpads
                 -- Cloak
-                { 5, 104939 }, -- Gloomwrap Greatcloak
+                { 6, 104939 }, -- Gloomwrap Greatcloak
                 -- Chest
-                { 6, 105110 }, -- Icy Blood Chestplate
+                { 7, 105110 }, -- Icy Blood Chestplate
                 -- Wrist
-                { 7, 105128 }, -- Bracers of Sonic Projection
-                { 8, 105047 }, -- Shackles of Stinking Slime
+                { 8, 105128 }, -- Bracers of Sonic Projection
+                { 9, 105047 }, -- Shackles of Stinking Slime
                 -- Hands
-                { 9, 105020 }, -- Earthripper Gloves
+                { 10, 105020 }, -- Earthripper Gloves
                 -- Waist
-                { 10, 105137 }, -- Cord of Black Dreams
-                { 11, 105002 }, -- Dragonmaw Emergency Strap
-                { 12, 105101 }, -- Plate Belt of the War-Healer
-                { 13, 105011 }, -- Demolisher's Reinforced Belt
+                { 11, 105137 }, -- Cord of Black Dreams
+                { 12, 105002 }, -- Dragonmaw Emergency Strap
+                { 13, 105101 }, -- Plate Belt of the War-Healer
+                { 14, 105011 }, -- Demolisher's Reinforced Belt
                 -- Legs
-                { 14, 104912 }, -- Puddle Punishers
+                { 15, 104912 }, -- Puddle Punishers
                 -- Feet
                 { 16, 104948 }, -- Sabatons of Defilement
                 { 17, 105055 }, -- Ravager's Pathwalkers
@@ -1994,41 +1995,42 @@ data["ScholomanceMoP"] = {
             },
             [CELESTIAL_DIFF] = {
                 -- Head
-                { 1, 105138 }, -- Kor'kron Elite Skullmask
-                { 2, 105056 }, -- Crown of Tragic Truth
+                { 1, 104922 }, -- Hood of Swirling Senses
+                { 2, 105138 }, -- Kor'kron Elite Skullmask
+                { 3, 105056 }, -- Crown of Tragic Truth
                 -- Neck
-                { 3, 104967 }, -- Untainted Guardian's Chain
+                { 4, 104967 }, -- Untainted Guardian's Chain
                 -- Shoulder
-                { 4, 104949 }, -- Shoulderguards of Dark Meditations
-                { 5, 105048 }, -- Shoulderplates of Gushing Geysers
+                { 5, 104949 }, -- Shoulderguards of Dark Meditations
+                { 6, 105048 }, -- Shoulderplates of Gushing Geysers
                 -- Cloak
-                { 6, 105075 }, -- Black-Blooded Drape
+                { 7, 105075 }, -- Black-Blooded Drape
                 -- Chest
-                { 7, 105021 }, -- Shock Pulse Robes
-                { 8, 105156 }, -- Chestplate of Fallen Passion
+                { 8, 105021 }, -- Shock Pulse Robes
+                { 9, 105156 }, -- Chestplate of Fallen Passion
                 -- Wrist
-                { 9, 105012 }, -- Wall-Borer Bracers
-                { 10, 104913 }, -- Bubble-Burst Bracers
-                { 11, 105066 }, -- Blood Rage Bracers
-                { 12, 104958 }, -- Bracers of Blind Hatred
-                { 13, 105093 }, -- Avool's Ancestral Bracers
+                { 10, 105012 }, -- Wall-Borer Bracers
+                { 11, 104913 }, -- Bubble-Burst Bracers
+                { 12, 105066 }, -- Blood Rage Bracers
+                { 13, 104958 }, -- Bracers of Blind Hatred
+                { 14, 105093 }, -- Avool's Ancestral Bracers
                 -- Hands
-                { 14, 105003 }, -- Grips of Tidal Force
+                { 15, 105003 }, -- Grips of Tidal Force
                 -- Waist
-                { 15, 105030 }, -- Damron's Belt of Darkness
+                { 16, 105030 }, -- Damron's Belt of Darkness
                 -- Legs
                 -- Feet
-                { 16, 105039 }, -- Toxic Tornado Treads
-                { 17, 105084 }, -- Pandaren Roofsprinters
-                { 18, 105102 }, -- Mogu Mindbender's Greaves
+                { 17, 105039 }, -- Toxic Tornado Treads
+                { 18, 105084 }, -- Pandaren Roofsprinters
+                { 19, 105102 }, -- Mogu Mindbender's Greaves
                 -- Finger
-                { 18, 104985 }, -- Swift Serpent Signet
-                { 19, 104994 }, -- Galakrond Control Band
+                { 20, 104985 }, -- Swift Serpent Signet
+                { 21, 104994 }, -- Galakrond Control Band
                 -- Trinket
-                { 20, 104940 }, -- Rook's Unlucky Talisman
-                { 21, 105147 }, -- Curse of Hubris
-                { 22, 104976 }, -- Prismatic Prison of Pride
-                { 23, 105111 }, -- Thok's Tail Tip
+                { 22, 104940 }, -- Rook's Unlucky Talisman
+                { 23, 105147 }, -- Curse of Hubris
+                { 24, 104976 }, -- Prismatic Prison of Pride
+                { 25, 105111 }, -- Thok's Tail Tip
                 -- Weapons
                 -- 1H Axe
                 -- 1H Mace
@@ -2039,9 +2041,9 @@ data["ScholomanceMoP"] = {
                 -- Fist Weapon
                 -- Polearm
                 -- Dagger
-                { 24, 105129 }, -- Rik'kal's Bloody Scalpel
+                { 26, 105129 }, -- Rik'kal's Bloody Scalpel
                 -- Crossbow
-                { 25, 104931 }, -- Death Lotus Crossbow
+                { 27, 104931 }, -- Death Lotus Crossbow
                 -- Bow
                 -- Gun
                 -- Wand
