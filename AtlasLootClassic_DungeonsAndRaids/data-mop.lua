@@ -460,7 +460,7 @@ data["StormstoutBrewery"] = {
                 { 3, 81134 },	-- Barreldodger Boots
                 { 4, 81133 },	-- Empty Fruit Barrel
                 { 5, 81061 },	-- Ook's Hozen Slicer
-                { 16, "3416", [ATLASLOOT_IT_AMOUNT1] = 2 }, -- August Stone Cluster
+                { 16, "c3416", [ATLASLOOT_IT_AMOUNT1] = 2 }, -- August Stone Cluster
                 { 17, "c395", [ATLASLOOT_IT_AMOUNT1] = 120 }, -- Justice Points
                 { 19, "ac6089" },
             },
@@ -486,7 +486,7 @@ data["StormstoutBrewery"] = {
                 { 3, 81077 },	-- Hopping Mad Leggings
                 { 4, 81065 },	-- Bubble-Breaker Bracers
                 { 5, 81076 },	-- Bottle of Potent Potables
-                { 16, "3416", [ATLASLOOT_IT_AMOUNT1] = 2 }, -- August Stone Cluster
+                { 16, "c3416", [ATLASLOOT_IT_AMOUNT1] = 2 }, -- August Stone Cluster
                 { 17, "c395", [ATLASLOOT_IT_AMOUNT1] = 120 }, -- Justice Points
             },
         },
@@ -585,7 +585,7 @@ data["StormstoutBrewery"] = {
                 { 109, 81062 },	-- Gao's Keg Tapper
                 { 110, 81140 },	-- Wort Sitrring Rod
                 { 116, "INV_Box_01", nil, AL["Tier Token iLvl528"], nil, "Tier16CelestialTierTokens" },
-                { 118, "3416", [ATLASLOOT_IT_AMOUNT1] = "2/5" }, -- August Stone Cluster
+                { 118, "c3416", [ATLASLOOT_IT_AMOUNT1] = "2/5" }, -- August Stone Cluster
                 { 119, "c395", [ATLASLOOT_IT_AMOUNT1] = 120 }, -- Justice Points
                 { 121, "ac60893" },
             },
@@ -625,7 +625,7 @@ data["TempleOfTheJadeSerpent"] = {
                 { 3, 81075 },	-- Waterburst Helm
                 { 4, 81083 },	-- Riverbed Chestguard
                 { 5, 81124 },	-- Crystallized Droplet
-                { 16, "3416", [ATLASLOOT_IT_AMOUNT1] = 2 }, -- August Stone Cluster
+                { 16, "c3416", [ATLASLOOT_IT_AMOUNT1] = 2 }, -- August Stone Cluster
                 { 17, "c395", [ATLASLOOT_IT_AMOUNT1] = 120 }, -- Justice Points
                 { 19, "ac6460" },
             },
@@ -651,7 +651,7 @@ data["TempleOfTheJadeSerpent"] = {
                 { 3, 81060 },	-- Sunheart Waistband
                 { 4, 81073 },	-- Stonestep Boots
                 { 5, 81125 },	-- Windswept Pages
-                { 16, "3416", [ATLASLOOT_IT_AMOUNT1] = 2 }, -- August Stone Cluster
+                { 16, "c3416", [ATLASLOOT_IT_AMOUNT1] = 2 }, -- August Stone Cluster
                 { 17, "c395", [ATLASLOOT_IT_AMOUNT1] = 120 }, -- Justice Points
             },
         },
@@ -676,7 +676,7 @@ data["TempleOfTheJadeSerpent"] = {
                 { 3, 81070 },	-- Serpentstrike Shoulderpads
                 { 4, 81128 },	-- Signet of Dancing Jade
                 { 5, 81067 },	-- Firebelcher Hand Cannon
-                { 16, "3416", [ATLASLOOT_IT_AMOUNT1] = 2 }, -- August Stone Cluster
+                { 16, "c3416", [ATLASLOOT_IT_AMOUNT1] = 2 }, -- August Stone Cluster
                 { 17, "c395", [ATLASLOOT_IT_AMOUNT1] = 120 }, -- Justice Points
             },
         },
@@ -779,7 +779,7 @@ data["TempleOfTheJadeSerpent"] = {
                 { 110, 81063 },	-- Dubious Handaxe
                 { 111, 81079 },	-- Staff of Trembling Will
                 { 116, "INV_Box_01", nil, AL["Tier Token iLvl528"], nil, "Tier16CelestialTierTokens" },
-                { 118, "3416", [ATLASLOOT_IT_AMOUNT1] = "2/5" }, -- August Stone Cluster
+                { 118, "c3416", [ATLASLOOT_IT_AMOUNT1] = "2/5" }, -- August Stone Cluster
                 { 119, "c395", [ATLASLOOT_IT_AMOUNT1] = 120 }, -- Justice Points
                 { 121, "ac60892" },
                 { 122, "ac6926" },
@@ -821,7 +821,7 @@ data["ShadoPanMonastery"] = {
                 { 3, 81092 },	-- Leggings of the Charging Soul
                 { 4, 81086 },	-- Sparkbreath Girdle
                 { 5, 81180 },	-- Cloudstrike Pendant
-                { 16, "3416", [ATLASLOOT_IT_AMOUNT1] = 2 }, -- August Stone Cluster
+                { 16, "c3416", [ATLASLOOT_IT_AMOUNT1] = 2 }, -- August Stone Cluster
                 { 17, "c395", [ATLASLOOT_IT_AMOUNT1] = 120 }, -- Justice Points
             },
         },
@@ -847,7 +847,7 @@ data["ShadoPanMonastery"] = {
                 { 3, 81182, 20 },	-- Eye of the Tornado
                 { 4, 81181, 20 },	-- Heart of Fire
                 { 5, 81108, 20 },	-- Snowdrift's Bladed Staff
-                { 16, "3416", [ATLASLOOT_IT_AMOUNT1] = 2 }, -- August Stone Cluster
+                { 16, "c3416", [ATLASLOOT_IT_AMOUNT1] = 2 }, -- August Stone Cluster
                 { 17, "c395", [ATLASLOOT_IT_AMOUNT1] = 120 }, -- Justice Points
                 { 19, "ac6477" },
             },
@@ -875,7 +875,7 @@ data["ShadoPanMonastery"] = {
                 { 3, 81113 },	-- Spike-Soled Stompers
                 { 4, 81184 },	-- Necklace of Disorientation
                 { 5, 81089 },	-- Crescent of Ichor
-                { 16, "3416", [ATLASLOOT_IT_AMOUNT1] = 2 }, -- August Stone Cluster
+                { 16, "c3416", [ATLASLOOT_IT_AMOUNT1] = 2 }, -- August Stone Cluster
                 { 17, "c395", [ATLASLOOT_IT_AMOUNT1] = 120 }, -- Justice Points
                 { 19, "ac6926" },
                 { 20, "ac6472" },
@@ -980,7 +980,7 @@ data["ShadoPanMonastery"] = {
                 { 110, 81107 },	-- Warmace of Taran Zhu
                 { 111, 81096 },	-- Shield of Blind Hate
                 { 116, "INV_Box_01", nil, AL["Tier Token iLvl528"], nil, "Tier16CelestialTierTokens" },
-                { 118, "3416", [ATLASLOOT_IT_AMOUNT1] = "2/5" }, -- August Stone Cluster
+                { 118, "c3416", [ATLASLOOT_IT_AMOUNT1] = "2/5" }, -- August Stone Cluster
                 { 119, "c395", [ATLASLOOT_IT_AMOUNT1] = 120 }, -- Justice Points
                 { 121, "ac60895" },
                 { 122, "ac6471" },
@@ -1022,7 +1022,7 @@ data["MoguShanPalace"] = {
                 { 3, 81237 },	-- Crest of the Clan Lords
                 { 4, 81241 },	-- Meteoric Greathelm
                 { 5, 81239 },	-- Whirling Dervish Choker
-                { 16, "3416", [ATLASLOOT_IT_AMOUNT1] = 2 }, -- August Stone Cluster
+                { 16, "c3416", [ATLASLOOT_IT_AMOUNT1] = 2 }, -- August Stone Cluster
                 { 17, "c395", [ATLASLOOT_IT_AMOUNT1] = 120 }, -- Justice Points
             },
         },
@@ -1050,7 +1050,7 @@ data["MoguShanPalace"] = {
                 { 3, 81242 },	-- Glintrok Sollerets
                 { 4, 81243 },	-- Iron Protector Talisman
                 { 5, 81245 },	-- Claws of Gekkan
-                { 16, "3416", [ATLASLOOT_IT_AMOUNT1] = 2 }, -- August Stone Cluster
+                { 16, "c3416", [ATLASLOOT_IT_AMOUNT1] = 2 }, -- August Stone Cluster
                 { 17, "c395", [ATLASLOOT_IT_AMOUNT1] = 120 }, -- Justice Points
                 { 19, "ac6478" },
             },
@@ -1156,7 +1156,7 @@ data["MoguShanPalace"] = {
                 { 110, 81253 },	-- Firescribe Dagger
                 { 111, 81247 },	-- Ghostheart
                 { 116, "INV_Box_01", nil, AL["Tier Token iLvl528"], nil, "Tier16CelestialTierTokens" },
-                { 118, "3416", [ATLASLOOT_IT_AMOUNT1] = "2/5" }, -- August Stone Cluster
+                { 118, "c3416", [ATLASLOOT_IT_AMOUNT1] = "2/5" }, -- August Stone Cluster
                 { 119, "c395", [ATLASLOOT_IT_AMOUNT1] = 120 }, -- Justice Points
                 { 121, "ac60894" },
                 { 122, "ac6736" },
@@ -1197,7 +1197,7 @@ data["GateoftheSettingSun"] = {
                 { 3, 81190 },	-- Grenadier's Belt
                 { 4, 81095 },	-- Pendant of Precise Timing
                 { 5, 81191 },	-- Pulled Grenade Pin
-                { 16, "3416", [ATLASLOOT_IT_AMOUNT1] = 2 }, -- August Stone Cluster
+                { 16, "c3416", [ATLASLOOT_IT_AMOUNT1] = 2 }, -- August Stone Cluster
                 { 17, "c395", [ATLASLOOT_IT_AMOUNT1] = 120 }, -- Justice Points
                 { 19, "ac6479" }
             },
@@ -1223,7 +1223,7 @@ data["GateoftheSettingSun"] = {
                 { 3, 81085 },	-- Impaler's Girdle
                 { 4, 81098 },	-- Acid-Scarred Spaulders
                 { 5, 81192 },	-- Vision of the Predator
-                { 16, "3416", [ATLASLOOT_IT_AMOUNT1] = 2 }, -- August Stone Cluster
+                { 16, "c3416", [ATLASLOOT_IT_AMOUNT1] = 2 }, -- August Stone Cluster
                 { 17, "c395", [ATLASLOOT_IT_AMOUNT1] = 120 }, -- Justice Points
             },
         },
@@ -1248,7 +1248,7 @@ data["GateoftheSettingSun"] = {
                 { 3, 81230 },	-- Ri'mok's Shattered Scale
                 { 4, 81232 },	-- Viscous Ring
                 { 5, 81088 },	-- Mantid Trochanter
-                { 16, "3416", [ATLASLOOT_IT_AMOUNT1] = 2 }, -- August Stone Cluster
+                { 16, "c3416", [ATLASLOOT_IT_AMOUNT1] = 2 }, -- August Stone Cluster
                 { 17, "c395", [ATLASLOOT_IT_AMOUNT1] = 120 }, -- Justice Points
             },
         },
@@ -1349,7 +1349,7 @@ data["GateoftheSettingSun"] = {
                 { 110, 81233 },	-- Impervious Carapace
                 { 111, 81097 },	-- Shield of the Protectorate
                 { 116, "INV_Box_01", nil, AL["Tier Token iLvl528"], nil, "Tier16CelestialTierTokens" },
-                { 118, "3416", [ATLASLOOT_IT_AMOUNT1] = "2/5" }, -- August Stone Cluster
+                { 118, "c3416", [ATLASLOOT_IT_AMOUNT1] = "2/5" }, -- August Stone Cluster
                 { 119, "c395", [ATLASLOOT_IT_AMOUNT1] = 120 }, -- Justice Points
                 { 121, "ac60896" },
                 { 122, "ac6945" },
@@ -1391,7 +1391,7 @@ data["SiegeofNiuzaoTemple"] = {
                 { 3, 81270 },	-- Sap-Encrusted Legplates
                 { 4, 81271 },	-- Engraved Amber Pendant
                 { 5, 81263 },	-- Flashfrozen Resin Globule
-                { 16, "3416", [ATLASLOOT_IT_AMOUNT1] = 2 }, -- August Stone Cluster
+                { 16, "c3416", [ATLASLOOT_IT_AMOUNT1] = 2 }, -- August Stone Cluster
                 { 17, "c395", [ATLASLOOT_IT_AMOUNT1] = 120 }, -- Justice Points
             },
         },
@@ -1419,7 +1419,7 @@ data["SiegeofNiuzaoTemple"] = {
                 { 3, 81277 },	-- Archer's Precision Grips
                 { 4, 81274 },	-- Sightfinder Helm
                 { 5, 81273 },	-- Siege-Captain's Scimitar
-                { 16, "3416", [ATLASLOOT_IT_AMOUNT1] = 2 }, -- August Stone Cluster
+                { 16, "c3416", [ATLASLOOT_IT_AMOUNT1] = 2 }, -- August Stone Cluster
                 { 17, "c395", [ATLASLOOT_IT_AMOUNT1] = 120 }, -- Justice Points
                 { 19, "ac6688" },
             },
@@ -1448,7 +1448,7 @@ data["SiegeofNiuzaoTemple"] = {
                 { 3, 81280 },	-- Siegeworn Bracers
                 { 4, 81264 },	-- Vial of Ichorous Blood
                 { 5, 81279 },	-- Tempestuous Longbow
-                { 16, "3416", [ATLASLOOT_IT_AMOUNT1] = 2 }, -- August Stone Cluster
+                { 16, "c3416", [ATLASLOOT_IT_AMOUNT1] = 2 }, -- August Stone Cluster
                 { 17, "c395", [ATLASLOOT_IT_AMOUNT1] = 120 }, -- Justice Points
                 { 19, "ac6485" },
             },
@@ -1553,7 +1553,7 @@ data["SiegeofNiuzaoTemple"] = {
                 { 110, 81286 },	-- Ner'onok's Razor Katar
                 { 111, 81288 },	-- Gustwalker Staff
                 { 116, "INV_Box_01", nil, AL["Tier Token iLvl528"], nil, "Tier16CelestialTierTokens" },
-                { 118, "3416", [ATLASLOOT_IT_AMOUNT1] = "2/5" }, -- August Stone Cluster
+                { 118, "c3416", [ATLASLOOT_IT_AMOUNT1] = "2/5" }, -- August Stone Cluster
                 { 119, "c395", [ATLASLOOT_IT_AMOUNT1] = 120 }, -- Justice Points
                 { 121, "ac60900" },
                 { 122, "ac6822" },
@@ -1591,7 +1591,7 @@ data["ScarletHallsMoP"] = {
                 { 3, 81694 },	-- Commanding Bracers
                 { 4, 81563 },	-- Beastbinder Ring
                 { 5, 81693 },	-- Houndmaster's Compound Crossbow
-                { 16, "3416", [ATLASLOOT_IT_AMOUNT1] = 2 }, -- August Stone Cluster
+                { 16, "c3416", [ATLASLOOT_IT_AMOUNT1] = 2 }, -- August Stone Cluster
                 { 17, "c395", [ATLASLOOT_IT_AMOUNT1] = 120 }, -- Justice Points
                 { 19, "ac6684" },
             },
@@ -1615,7 +1615,7 @@ data["ScarletHallsMoP"] = {
                 { 3, 81694 },	-- Commanding Bracers
                 { 4, 81563 },	-- Beastbinder Ring
                 { 5, 81693 },	-- Houndmaster's Compound Crossbow
-                { 16, "3416", [ATLASLOOT_IT_AMOUNT1] = 2 }, -- August Stone Cluster
+                { 16, "c3416", [ATLASLOOT_IT_AMOUNT1] = 2 }, -- August Stone Cluster
                 { 17, "c395", [ATLASLOOT_IT_AMOUNT1] = 120 }, -- Justice Points
                 { 19, "ac6684" },
             },
@@ -1713,7 +1713,7 @@ data["ScarletHallsMoP"] = {
                 { 113, 87268, [ATLASLOOT_IT_FILTERIGNORE] = true }, -- Codex of the Crusade
                 { 115, 82470 }, -- Ancient Tome of Portal: Dalaran
                 { 116, "INV_Box_01", nil, AL["Tier Token iLvl528"], nil, "Tier16CelestialTierTokens" },
-                { 118, "3416", [ATLASLOOT_IT_AMOUNT1] = "2/5" }, -- August Stone Cluster
+                { 118, "c3416", [ATLASLOOT_IT_AMOUNT1] = "2/5" }, -- August Stone Cluster
                 { 119, "c395", [ATLASLOOT_IT_AMOUNT1] = 120 }, -- Justice Points
                 { 121, "ac60897" },
             },
@@ -1750,7 +1750,7 @@ data["ScarletMonasteryMoP"] = {
                 { 3, 81570 },	-- Legguards of the Crimson Magus
                 { 4, 81572 },	-- Bracers of the Fallen Crusader
                 { 5, 81560 },	-- Signet of the Hidden Door
-                { 16, "3416", [ATLASLOOT_IT_AMOUNT1] = 2 }, -- August Stone Cluster
+                { 16, "c3416", [ATLASLOOT_IT_AMOUNT1] = 2 }, -- August Stone Cluster
                 { 17, "c395", [ATLASLOOT_IT_AMOUNT1] = 120 }, -- Justice Points
                 { 19, "ac6946" },
             },
@@ -1773,7 +1773,7 @@ data["ScarletMonasteryMoP"] = {
                 { 3, 81574 },	-- Helm of Rising Flame
                 { 4, 81561 },	-- Firefinger Ring
                 { 5, 81576 },	-- Firestorm Greatstaff
-                { 16, "3416", [ATLASLOOT_IT_AMOUNT1] = 2 }, -- August Stone Cluster
+                { 16, "c3416", [ATLASLOOT_IT_AMOUNT1] = 2 }, -- August Stone Cluster
                 { 17, "c395", [ATLASLOOT_IT_AMOUNT1] = 120 }, -- Justice Points
                 { 19, "ac6928" },
             },
@@ -1867,7 +1867,7 @@ data["ScarletMonasteryMoP"] = {
                 { 110, 81577 },	-- Lightbreaker Greatsword
                 { 111, 81691 },	-- Greatstaff of Righteousness
                 { 116, "INV_Box_01", nil, AL["Tier Token iLvl528"], nil, "Tier16CelestialTierTokens" },
-                { 118, "3416", [ATLASLOOT_IT_AMOUNT1] = "2/5" }, -- August Stone Cluster
+                { 118, "c3416", [ATLASLOOT_IT_AMOUNT1] = "2/5" }, -- August Stone Cluster
                 { 119, "c395", [ATLASLOOT_IT_AMOUNT1] = 120 }, -- Justice Points
                 { 121, "ac60898" },
                 { 122, "ac6929" },
@@ -1909,7 +1909,7 @@ data["ScholomanceMoP"] = {
                 { 3, 82821 },	-- Breastplate of Wracking Souls
                 { 4, 81566 },	-- Anarchist's Pendant
                 { 5, 82822 },	-- Gravetouch Greatsword
-                { 16, "3416", [ATLASLOOT_IT_AMOUNT1] = 2 }, -- August Stone Cluster
+                { 16, "c3416", [ATLASLOOT_IT_AMOUNT1] = 2 }, -- August Stone Cluster
                 { 17, "c395", [ATLASLOOT_IT_AMOUNT1] = 120 }, -- Justice Points
             },
         },
@@ -1931,7 +1931,7 @@ data["ScholomanceMoP"] = {
                 { 3, 82851 },	-- Ghostwoven Legguards
                 { 4, 82852 },	-- Wraithplate Treads
                 { 5, 82847 },	-- Metanoia Shield
-                { 16, "3416", [ATLASLOOT_IT_AMOUNT1] = 2 }, -- August Stone Cluster
+                { 16, "c3416", [ATLASLOOT_IT_AMOUNT1] = 2 }, -- August Stone Cluster
                 { 17, "c395", [ATLASLOOT_IT_AMOUNT1] = 120 }, -- Justice Points
                 { 19, "ac6531" },
             },
@@ -1954,7 +1954,7 @@ data["ScholomanceMoP"] = {
                 { 3, 82828 },	-- Bone Golem Boots
                 { 4, 82824 },	-- Goresoaked Headreaper
                 { 5, 82826 },	-- Necromantic Wand
-                { 16, "3416", [ATLASLOOT_IT_AMOUNT1] = 2 }, -- August Stone Cluster
+                { 16, "c3416", [ATLASLOOT_IT_AMOUNT1] = 2 }, -- August Stone Cluster
                 { 17, "c395", [ATLASLOOT_IT_AMOUNT1] = 120 }, -- Justice Points
                 { 19, "ac6394" },
             },
@@ -1976,7 +1976,7 @@ data["ScholomanceMoP"] = {
                 { 3, 82828 },	-- Bone Golem Boots
                 { 4, 82824 },	-- Goresoaked Headreaper
                 { 5, 82826 },	-- Necromantic Wand
-                { 16, "3416", [ATLASLOOT_IT_AMOUNT1] = 2 }, -- August Stone Cluster
+                { 16, "c3416", [ATLASLOOT_IT_AMOUNT1] = 2 }, -- August Stone Cluster
                 { 17, "c395", [ATLASLOOT_IT_AMOUNT1] = 120 }, -- Justice Points
                 { 19, "ac6394" },
             },
@@ -2067,7 +2067,7 @@ data["ScholomanceMoP"] = {
                 { 108, 81266 }, -- Price of Progress
                 { 109, 81267 }, -- Searing Words
                 { 116, "INV_Box_01", nil, AL["Tier Token iLvl528"], nil, "Tier16CelestialTierTokens" },
-                { 118, "3416", [ATLASLOOT_IT_AMOUNT1] = "2/5" }, -- August Stone Cluster
+                { 118, "c3416", [ATLASLOOT_IT_AMOUNT1] = "2/5" }, -- August Stone Cluster
                 { 119, "c395", [ATLASLOOT_IT_AMOUNT1] = 120 }, -- Justice Points
                 { 121, "ac60899" },
                 { 122, "ac6821" },
