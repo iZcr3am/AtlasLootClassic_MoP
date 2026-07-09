@@ -923,7 +923,7 @@ data["ShadoPanMonastery"] = {
                 { 7, 104914 }, -- Chestplate of Congealed Corrosion
                 -- Wrist
                 { 8, 105085 }, -- Mantid Carapace Augments
-                { 9, 105119 }, -- Bracers of 
+                { 9, 105119 }, -- Bracers of Infinite Pipes
                 { 10, 105004 }, -- Smoldering Drakescale Bracers
                 -- Hands
                 { 11, 104950 }, -- Grips of the Fallen Council
